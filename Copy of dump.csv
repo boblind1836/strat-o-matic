@@ -1,0 +1,1090 @@
+id,firstname,lastname,currcode,franchise_id,primary_pos,usage,rating,vs_left,vs_right
+134181,Adrian,Beltre,RRF,23,3B,513,3b-2e24,33,66
+400121,Victor,Martinez,ROK,99,1B,549,1b-5e12,41,26
+400284,Chase,Utley,ROK,99,2B,199,2b-3e14 1b-4e14,3,11
+405395,Albert,Pujols,ROK,99,1B,543,1b-4e10,33,36
+407812,Matt,Holliday,ROK,99,LF,70,lf-5(+2)e25 1b-5e30,73,63
+408045,Joe,Mauer,RBJ,18,1B,591,1b-2e6,55,46
+408234,Miguel,Cabrera,HWC,3,1B,171,1b-4e5,62,78
+408236,Adrian,Gonzalez,ROK,99,1B,203,1b-3e4,11,28
+408314,Jose,Reyes,BMW,2,3B,275,3b-4e15 2b-3e47 ss-4e26,17,3
+425772,Jeff,Mathis,ROK,99,C,237,"c-2(-2)e1,T-4(pb-0) 2b-5e71",18,1
+425783,Shin-Soo,Choo,ULO,24,RF,717,rf-4(-1)e11 lf-4e11,31,87
+425784,Rene,Rivera,ROK,99,C,99,"c-3(-1)e6,T-1(pb-4) 1b-5e15",11,75
+425877,Yadier,Molina,MNJ,9,C,537,"c-1(-3)e1,T-4(pb-1) 1b-4e30",70,58
+429664,Robinson,Cano,BMW,2,2B,376,2b-3e4 1b-5e16 3b-5e37,80,90
+429665,Edwin,Encarnacion,MCD,11,1B,619,1b-4e8,42,77
+430832,Jose,Bautista,MNJ,9,RF,432,rf-4(+1)e7 3b-4e10 lf-4e7 1b-4e18 2b-5e71,20,41
+430945,Adam,Jones,QCK,16,CF,664,cf-4(-1)e5 rf-3e5 lf-3e5,51,52
+431145,Russell,Martin,FYS,5,C,380,"c-2(+2)e2,T-8(pb-1) 3b-4e20 ss-5e88 lf-4(+2)e16",32,9
+434158,Curtis,Granderson,CHW,20,RF,436,rf-4(+2)e10 lf-4e10 cf-4e10,3,58
+434658,Rajai,Davis,ROK,99,CF,228,cf-3(-1)e4 lf-2e4 rf-3e4,12,12
+434670,Hanley,Ramirez,ROK,99,1B,210,1b-4e4,72,12
+434778,Kendrys,Morales,SSS,25,1B,509,1b-4e11 3b-5e65,10,87
+435062,Howie,Kendrick,RRF,23,2B,173,2b-4e20 lf-4(+1)e25 1b-4e20,43,94
+435064,Bobby,Wilson,ROK,99,C,162,"c-3(0)e1,T-4(pb-1)",4,1
+435079,Ian,Kinsler,MMM,6,2B,580,2b-1e12,15,39
+435263,Brian,McCann,MBB,10,C,229,"c-3(-1)e6,T-5(pb-1)",21,21
+435522,Neil,Walker,HWC,3,1B,428,1b-4e5 2b-3e12 3b-4e10 rf-4(+1)e13 lf-5e13,4,18
+435559,Kurt,Suzuki,GTG,7,C,406,"c-3(+1)e4,T-7(pb-0)",78,62
+435622,Ian,Desmond,RB2,17,1B,665,1b-3e8 lf-4(-1)e7 ss-4e28 cf-4e7,70,15
+443558,Nelson,Cruz,MMM,6,RF,632,rf-5(0)e4,89,79
+444432,Mark,Trumbo,ROK,99,RF,389,rf-5(0)e4 1b-5e25,67,61
+444482,David,Peralta,NWP,15,LF,669,lf-3(-2)e5 rf-4e5,40,97
+444489,Manny,Pina,BMH,1,C,360,"c-2(-3)e2,T-9(pb-0) 1b-5e30",20,54
+444876,Alcides,Escobar,MBB,10,SS,566,ss-3e14 3b-2e18 cf-4(-1)e25 2b-3e41,28,8
+445055,Jon,Jay,GTG,7,RF,616,rf-3(+1)e0 lf-3e0 cf-3e0,26,47
+445988,Martin,Prado,SST,26,3B,229,3b-3e8 1b-3e25,16,16
+446263,Lucas,Duda,SSS,25,DH,392,1b-4e8,5,71
+446308,Matt,Wieters,ULO,24,C,292,"c-3(-1)e2,T-7(pb-0)",24,23
+446334,Evan,Longoria,MBB,10,3B,552,3b-3e21,67,29
+446359,Zack,Cozart,MMM,6,2B,267,2b-3e12 3b-3e15 ss-3e14,9,23
+446386,Brandon,Guyer,ROK,99,RF,230,rf-3(-1)e9 lf-3e9 cf-3e9,56,0
+446481,Sean,Rodriguez,ROK,99,2B,189,2b-3e21 ss-4e40 lf-3(0)e4 cf-4e4 rf-3e4 1b-4e7 3b-4e65,40,1
+448602,Mark,Reynolds,MFM,12,1B,253,1b-4e8 3b-4e65 2b-5e41,64,69
+448801,Chris,Davis,ROK,99,1B,562,1b-3e7,6,1
+449181,Paulo,Orlando,ROK,99,CF,102,cf-2(-1)e17 lf-2e17 rf-2e17,3,0
+450314,Ben,Zobrist,MCD,11,RF,556,rf-3(0)e3 2b-3e5 lf-3e3 1b-4e25,77,69
+451192,Jim,Adduci,ROK,99,1B,201,1b-3e27,0,42
+451594,Dexter,Fowler,SSS,25,DH,360,rf-4(+1)e9,5,1
+452095,Tyler,Flowers,NYK,8,C,315,"c-3(+2)e1,T-1(pb-4)",84,9
+452254,Hunter,Pence,SHS,21,LF,271,lf-4(+2)e3 rf-4e3,10,16
+452655,Denard,Span,SST,26,LF,537,lf-3(0)e6,57,47
+452678,Asdrubal,Cabrera,RRF,23,2B,646,2b-4e10 ss-4e7 3b-4e21,26,77
+453568,Charlie,Blackmon,MCD,11,CF,749,cf-4(+1)e1,75,85
+453923,Gregor,Blanco,BMW,2,LF,221,lf-2(0)e11 cf-2e11 rf-2e11,7,10
+453943,Todd,Frazier,RBJ,18,3B,502,3b-3e18,14,42
+454560,A.J.,Ellis,HWC,3,C,195,"c-3(+2)e1,T-3(pb-2) lf-5(+2)e25",67,42
+455104,Chris,Iannetta,BMW,2,C,382,"c-4(+2)e1,T-9(pb-0)",30,28
+455117,Martin,Maldonado,CHW,20,C,428,"c-1(-4)e3,T-8(pb-6)",20,7
+455139,Robinson,Chirinos,RBJ,18,C,446,"c-3(+1)e1,T-5(pb-1)",44,28
+455759,Chris,Young,ROK,99,RF,136,rf-3(+1)e5 cf-4e5 lf-3e5,29,2
+455976,Nick,Markakis,MNJ,9,RF,764,rf-2(+1)e2 lf-3e2,64,70
+456078,Welington,Castillo,QCK,16,C,197,"c-3(0)e1,T-3(pb-4)",64,33
+456124,Erik,Kratz,ROK,99,C,226,"c-3(0)e1,T-8(pb-2)",18,18
+456488,Eduardo,Nunez,ULO,24,2B,546,2b-4e10 3b-4e12,37,31
+456665,Steve,Pearce,MNJ,9,1B,269,1b-3e6 lf-4(+2)e4 rf-4e4,93,72
+456715,Lorenzo,Cain,NYK,8,CF,667,cf-1(-4)e7,96,75
+457705,Andrew,McCutchen,MBB,10,RF,731,rf-3(-1)e2 lf-3e2,73,62
+457706,Austin,Jackson,MMM,6,CF,411,cf-3(0)e8 lf-3e8,20,37
+457708,Justin,Upton,CHW,20,LF,656,lf-4(0)e5,23,90
+457727,Cameron,Maybin,OSS,13,CF,418,cf-2(-1)e4 lf-2e4 rf-3e4,38,20
+457759,Justin,Turner,SST,26,3B,449,3b-2e19,97,92
+457763,Buster,Posey,MBB,10,C,488,"c-1(-1)e1,T-4(pb-1) 1b-2e9",67,41
+457803,Jay,Bruce,NPP,14,RF,396,rf-4(0)e5 1b-4e8,26,22
+458015,Joey,Votto,MBB,10,1B,672,1b-2e6,56,80
+458731,Brett,Gardner,ULO,24,LF,655,lf-1(-1)e4 cf-2e4,34,28
+458913,Eric,Young Jr.,ROK,99,CF,127,cf-4(+1)e5 lf-3e5,26,3
+459964,Matt,Joyce,ROK,99,LF,267,lf-4(-1)e4 rf-4e4 cf-4e4,6,22
+460026,Nick,Hundley,CHW,20,C,334,"c-3(+2)e3,T-11(pb-3)",88,7
+460075,Ryan,Braun,SYS,4,LF,478,lf-3(0)e2 1b-4e27 rf-4e2,76,61
+460077,Drew,Butera,ROK,99,C,196,"c-3(+1)e4,T-4(pb-3) 1b-4e25",13,3
+460086,Alex,Gordon,BMW,2,LF,612,lf-1(-3)e2 cf-3e2 rf-3e2,14,38
+460269,Chris,Gimenez,ROK,99,C,70,"c-3(0)e4,T-20(pb-0) 1b-4e30 3b-5e37",75,6
+460576,Carlos,Gomez,ROK,99,RF,424,rf-2(-2)e12 cf-3e12 2b-5e71,7,17
+461314,Matt,Kemp,ULO,24,LF,548,lf-4(+1)e3 rf-4e3,77,83
+461865,Andrew,Romine,ROK,99,2B,139,2b-2e6 ss-3e14 1b-3e8 3b-2e39 lf-3(+1)e2 cf-4e2 rf-4e2,13,2
+462101,Elvis,Andrus,SKE,22,SS,466,ss-2e19,41,33
+463610,Gregorio,Petit,ROK,99,2B,74,2b-3e18 ss-3e56 3b-3e37 1b-4e25,7,18
+465041,Francisco,Cervelli,MMM,6,C,421,"c-3(-1)e2,T-5(pb-2) 1b-4e30",65,73
+465753,Pedro,Florimon,ROK,99,SS,84,ss-3e28 2b-3e4 3b-4e14 cf-4(+2)e11 rf-4e11,25,28
+466320,Melky,Cabrera,MCD,11,RF,297,rf-5(0)e1 lf-5e1,75,28
+467055,Pablo,Sandoval,SYS,4,3B,274,3b-4e6 1b-3e23 2b-5e41,1,78
+467092,Wilson,Ramos,NWP,15,C,455,"c-3(-1)e3,T-9(pb-3)",94,74
+467793,Carlos,Santana,GTG,7,1B,737,1b-3e11 3b-4e12,54,34
+467827,Gerardo,Parra,MNJ,9,LF,475,lf-2(-2)e6 rf-3e6,7,66
+471865,Carlos,Gonzalez,SSS,25,RF,546,rf-2(-3)e3,49,69
+472528,Luis,Valbuena,ROK,99,3B,314,3b-3e18 1b-3e22 2b-5e13,9,4
+474568,Jordy,Mercer,RBJ,18,SS,468,ss-4e14,60,19
+474832,Brandon,Belt,SYS,4,1B,493,1b-1e13 lf-4(+1)e24,21,82
+475174,Yonder,Alonso,SHS,21,1B,624,1b-3e12,20,43
+475247,Ryan,Flaherty,ROK,99,3B,197,3b-3e10 1b-4e25 2b-4e4,8,9
+475253,Justin,Smoak,BMW,2,1B,647,1b-2e1,30,81
+475582,Ryan,Zimmerman,RRF,23,1B,350,1b-3e5,99,44
+476704,Jed,Lowrie,NYK,8,2B,742,2b-4e5 3b-4e11,36,81
+476883,Pedro,Alvarez,ROK,99,3B,140,3b-5e30 1b-5e30,31,31
+488671,Alex,Avila,HWC,3,C,254,"c-4(-1)e1,T-3(pb-0) 1b-5e7",7,3
+488726,Michael,Brantley,NYK,8,LF,680,lf-3(-2)e1,43,89
+488771,Jason,Castro,ROK,99,C,79,"c-2(-2)e1,T-4(pb-1)",0,1
+488818,Chase,d'Arnaud,ROK,99,2B,106,2b-4e12 3b-4e6 1b-4e16 ss-4e24,60,0
+489149,Logan,Morrison,ROK,99,1B,387,1b-4e10 lf-5(+2)e13,33,4
+491676,Gorkys,Hernandez,LMH,19,CF,485,cf-2(-1)e9 lf-2e9 rf-2e9,42,36
+491696,Jesus,Sucre,RRF,23,C,210,"c-3(0)e1,T-6(pb-5)",1,3
+493316,Yoenis,Cespedes,RRF,23,LF,169,lf-3(-2)e9,21,94
+493329,Yulieski,Gurriel,MMM,6,1B,616,1b-3e7 3b-4e8 2b-4e14 ss-4e88,88,48
+500135,Ronny,"Rodriguez, Ro",ROK,99,SS,221,ss-3e48 2b-4e12 3b-4e34 1b-4e30 rf-5(+2)e4,35,1
+500208,Yangervis,Solarte,SYS,4,3B,549,3b-4e15 2b-4e6 ss-4e25 1b-4e18,39,9
+500743,Miguel,Rojas,LMH,19,SS,563,ss-3e7 3b-3e5 1b-3e14 2b-3e5,23,24
+500871,Eduardo,Escobar,SHS,21,3B,680,3b-2e6 ss-4e8 2b-3e13,50,79
+500874,Jose,Martinez,GTG,7,1B,641,1b-5e15 rf-4(0)e2,67,89
+501213,Moises,Sierra,ROK,99,LF,61,lf-4(+1)e10 rf-4e10,2,0
+501303,Ehire,Adrianza,RB2,17,SS,395,ss-3e19 3b-3e13 2b-3e22 1b-3e25 lf-4(+2)e8,45,19
+501571,Juan,Lagares,NYK,8,CF,68,cf-2(-2)e6,66,94
+501659,Abraham,Almonte,MNJ,9,CF,164,cf-3(-1)e3 rf-3e3,1,2
+501896,David,Freese,RB2,17,3B,334,3b-3e15 1b-4e24,85,76
+501981,Khris,Davis,SHS,21,LF,699,lf-4(+3)e1,69,96
+502054,Tommy,Pham,RB2,17,CF,617,cf-4(0)e7 lf-3e7,80,84
+502082,Lonnie,Chisenhall,OSS,13,RF,101,rf-3(-1)e7,64,91
+502110,J.D.,Martinez,HWC,3,LF,702,lf-4(-1)e4 rf-4e4,97,100
+502143,Danny,Valencia,NYK,8,3B,305,3b-4e17 rf-4(+1)e2 1b-4e16,82,9
+502210,Josh,Reddick,SSS,25,LF,530,rf-2(-3)e0 lf-2e0,87,22
+502226,Craig,Gentry,ROK,99,RF,184,rf-2(-2)e7 lf-2e7 cf-2e7,50,29
+502481,Jarrod,Dyson,MMM,6,CF,257,cf-1(-2)e6 rf-1e6 lf-1e6,7,2
+502517,Daniel,Murphy,ULO,24,2B,378,2b-5e17 1b-5e6,15,93
+502671,Paul,Goldschmidt,FYS,5,1B,751,1b-1e6,94,96
+503556,Marwin,Gonzalez,MFM,12,LF,596,lf-3(-3)e3 ss-3e32 2b-3e8 1b-2e10 3b-3e65 rf-4e3,54,28
+506702,Sandy,Leon,MNJ,9,C,309,"c-1(-3)e2,T-1(pb-9)",3,1
+506703,Adrian,"Sanchez, A",ROK,99,2B,65,2b-3e8 3b-3e35,76,2
+506747,Francisco,Pena,ROK,99,C,153,"c-3(+1)e1,T-7(pb-1) 1b-5e25",2,5
+514888,Jose,Altuve,RBJ,18,2B,648,2b-2e8,70,88
+514917,Cesar,Hernandez,NPP,14,2B,771,2b-3e13,52,28
+516416,Jean,Segura,LMH,19,SS,680,ss-3e20,69,76
+516472,Francisco,"Arcia, F",ROK,99,C,114,"c-3(0)e12,T-1(pb-0) 1b-4e24",18,17
+516770,Starlin,Castro,MNJ,9,2B,705,2b-3e13,73,50
+516782,Starling,Marte,QCK,16,CF,654,cf-2(-4)e4,46,83
+517369,Jose,Pirela,MFM,12,2B,515,2b-4e17 lf-4(+1)e11 rf-4e11 1b-4e25,41,17
+518586,Charlie,Culberson,NYK,8,3B,349,3b-3e10 ss-4e19 lf-4(+1)e8 2b-3e44 rf-4e8 1b-4e25,59,71
+518614,Daniel,Descalso,BMH,1,2B,454,2b-4e15 3b-4e11 1b-4e30 lf-4(+1)e25,42,52
+518618,Derek,Dietrich,OSS,13,LF,581,lf-5(+1)e2 1b-4e17 2b-4e10 3b-4e16,61,62
+518626,Josh,Donaldson,SSS,25,1B,240,3b-3e19 1b-4e30,87,43
+518692,Freddie,Freeman,ULO,24,1B,764,1b-1e7,94,84
+518735,Yasmani,Grandal,SKE,22,C,559,"c-3(-1)e6,T-6(pb-3) 1b-4e30",27,69
+518792,Jason,Heyward,MFM,12,RF,527,rf-1(-4)e4 cf-3e4,60,29
+518902,Pete,Kozma,ROK,99,SS,78,ss-3e7 3b-3e8 2b-3e13,6,9
+518934,DJ,LeMahieu,FYS,5,2B,623,2b-1e5,89,20
+518960,Jonathan,Lucroy,LMH,19,C,489,"c-3(+1)e1,T-12(pb-2)",22,10
+519023,Devin,Mesoraco,BMH,1,C,296,"c-3(+1)e1,T-1(pb-6) 1b-4e25",34,33
+519048,Mitch,Moreland,QCK,16,1B,499,1b-2e3,41,56
+519058,Mike,Moustakas,QCK,16,3B,680,3b-3e16 1b-4e25,53,55
+519203,Anthony,Rizzo,HWC,3,1B,695,1b-1e8,42,90
+519222,Austin,Romine,FYS,5,C,285,"c-2(+1)e2,T-7(pb-2)",51,19
+519299,Eric,Sogard,ROK,99,SS,120,ss-3e10 2b-3e20 lf-5(+2)e25,0,0
+519306,Steven,Souza Jr.,FYS,5,RF,296,rf-2(0)e8,56,16
+519317,Giancarlo,Stanton,BMW,2,LF,756,lf-4(-2)e2 rf-3e2,98,58
+519333,Matt,Szczur,MNJ,9,LF,92,lf-2(+1)e2 rf-2e2 cf-3e2,7,1
+519346,Eric,Thames,SYS,4,1B,304,1b-4e20 rf-4(+1)e11 lf-4e11,13,45
+520471,Freddy,Galvis,ULO,24,SS,712,ss-1e10 2b-2e20,66,9
+521692,Salvador,Perez,SST,26,C,580,"c-1(-4)e1,T-4(pb-1) 1b-4e25",48,58
+523253,Logan,Forsythe,MMM,6,2B,453,2b-2e13 3b-3e62 1b-4e22,15,16
+527038,Wilmer,Flores,GTG,7,1B,457,1b-4e7 2b-4e11 3b-4e62,28,79
+527043,Jefry,Marte,ROK,99,1B,227,1b-4e11 3b-4e23 lf-4(+2)e7,27,10
+534606,Ryan,LaMarre,ROK,99,CF,193,cf-3(0)e7 lf-3e7 rf-3e7,88,20
+541645,Avisail,Garcia,NYK,8,RF,414,rf-4(-2)e4,71,32
+541650,Hernan,Perez,RBJ,18,2B,367,2b-3e13 3b-3e17 ss-4e22 rf-3(0)e6 lf-3e6 cf-4e6 1b-4e16,75,25
+542208,Carlos,Perez,ROK,99,C,79,"c-2(-1)e8,T-9(pb-7)",0,0
+542255,Ender,Inciarte,RB2,17,CF,711,cf-1(-3)e5,45,28
+542303,Marcell,Ozuna,MBB,10,LF,682,lf-3(+2)e5,95,46
+542340,Jonathan,Villar,HWC,3,2B,558,2b-3e13 ss-3e27,44,28
+542364,Rafael,Ortega,ROK,99,RF,157,rf-3(0)e17 lf-3e17,14,5
+542583,Jesus,Aguilar,NPP,14,1B,601,1b-4e6 3b-5e37,90,95
+542908,Jett,Bandy,ROK,99,C,73,"c-4(0)e1,T-17(pb-9)",6,2
+542921,Tim,Beckham,ROK,99,SS,436,ss-3e42 3b-4e29 2b-4e20,43,14
+542979,Keon,Broxton,SSS,25,CF,98,cf-1(-2)e5 rf-1e5,13,25
+543063,Brandon,Crawford,RB2,17,SS,639,ss-1e19,74,26
+543068,C.J.,Cron,BMH,1,1B,592,1b-4e6,94,66
+543194,Isaac,Galloway,ROK,99,CF,80,cf-3(-1)e8 rf-2e8 lf-2e8,90,2
+543228,Yan,Gomes,OSS,13,C,466,"c-2(-2)e5,T-12(pb-2)",78,53
+543257,Robbie,Grossman,MCD,11,RF,502,rf-4(+2)e7 lf-4e7,89,35
+543281,Josh,Harrison,SYS,4,2B,398,2b-3e12 3b-4e14,46,11
+543302,Chris,Herrmann,ROK,99,C,95,"c-4(+1)e7,T-1(pb-0) 1b-4e30",25,55
+543305,Aaron,Hicks,SST,26,CF,627,cf-2(-2)e3,54,64
+543308,John,Hicks,QCK,16,1B,341,"1b-4e17 c-4(0)e1,T-13(pb-0)",63,22
+543309,Kyle,Higashioka,ROK,99,C,86,"c-3(+2)e1,T-6(pb-3)",39,0
+543333,Eric,Hosmer,NWP,15,1B,742,1b-2e4,6,80
+543376,Caleb,Joseph,SHS,21,C,303,"c-3(0)e2,T-14(pb-1) 1b-4e25",11,6
+543401,Jason,Kipnis,BMH,1,2B,649,2b-4e12 cf-5(+2)e11,26,19
+543484,Mikie,Mahtook,SHS,21,LF,268,lf-2(0)e8 rf-3e8 cf-3e8,6,22
+543510,James,McCann,HWC,3,C,499,"c-2(-2)e4,T-4(pb-1)",9,10
+543543,Brad,Miller,MNJ,9,1B,277,1b-4e14 2b-4e11 ss-4e88,35,40
+543685,Anthony,Rendon,HWC,3,3B,643,3b-1e8,93,95
+543760,Marcus,Semien,SST,26,SS,762,ss-3e21,54,36
+543768,Travis,Shaw,BMW,2,3B,633,3b-2e17 2b-4e5 1b-3e4,18,79
+543776,J.B.,Shuck,ROK,99,RF,154,rf-4(0)e6 lf-4e6 cf-4e6,19,1
+543807,George,Springer,HWC,3,CF,668,cf-2(-2)e1 rf-2e1 lf-3e1,77,48
+543829,Dee,Gordon,NWP,15,2B,622,2b-1e21 cf-4(+1)e17 ss-3e34,37,52
+543877,Christian,Vazquez,RRF,23,C,290,"c-2(-3)e5,T-4(pb-7) 3b-5e65",23,2
+543939,Kolten,Wong,SST,26,2B,422,2b-1e15,40,35
+544369,Didi,Gregorius,SSS,25,SS,607,ss-1e8,71,77
+544725,Leury,Garcia,SYS,4,LF,294,lf-3(-1)e12 cf-3e12 rf-3e12 2b-4e18 ss-4e25 3b-4e10,71,24
+545341,Randal,Grichuk,SKE,22,RF,496,rf-2(0)e1 cf-3e1 lf-3e1,76,73
+545350,Jake,Marisnick,SHS,21,CF,251,cf-1(-2)e2 rf-1e2,38,10
+545358,Max,Stassi,ROK,99,C,268,"c-3(0)e1,T-5(pb-4)",33,33
+545361,Mike,Trout,CHW,20,CF,652,cf-1(-2)e0,93,100
+546318,Odubel,Herrera,NPP,14,CF,647,cf-4(0)e4 rf-4e4 lf-4e4,59,33
+546991,Albert,Almora,SHS,21,CF,513,cf-1(-1)e5 lf-1e5,65,54
+547170,Nicky,Delmonico,SSS,25,DH,342,lf-4(+1)e10 1b-4e28,6,23
+547172,Tony,Wolters,RB2,17,C,227,"c-2(-1)e3,T-10(pb-4) 2b-4e41 3b-4e65 lf-4(+2)e25",6,2
+547180,Bryce,Harper,BMW,2,RF,748,rf-3(-2)e3 cf-4e3,80,85
+547379,Roberto,Perez,MMM,6,C,220,"c-1(-1)e3,T-15(pb-2)",8,1
+547982,Leonys,Martin,MMM,6,CF,383,cf-2(-3)e4,11,70
+547989,Jose,Abreu,SHS,21,1B,590,1b-3e11,88,57
+553869,Elias,Diaz,ULO,24,C,300,"c-2(-1)e8,T-20(pb-0)",96,57
+553882,Omar,Narvaez,SSS,25,C,350,"c-4(+1)e2,T-10(pb-5)",13,83
+553902,Willians,Astudillo,ROK,99,C,104,"c-3(0)e1,T-15(pb-0) 3b-4e65 2b-5e71 lf-5(+2)e8",94,95
+553988,Dixon,Machado,CHW,20,2B,250,2b-4e13,40,1
+553993,Eugenio,Suarez,MNJ,9,3B,650,3b-3e22 ss-4e10,96,84
+570256,Gregory,Polanco,RRF,23,RF,574,rf-3(-2)e3,54,74
+570267,Domingo,Santana,HWC,3,RF,253,rf-4(-2)e3,33,65
+570481,Erik,Gonzalez,SST,26,2B,156,2b-3e65 3b-2e17 ss-3e20 1b-4e25,30,43
+570560,Carlos,Sanchez,NPP,14,3B,714,3b-2e15 2b-3e12 ss-4e72,6,51
+570731,Jonathan,Schoop,SSS,25,2B,537,2b-2e23 ss-4e20,24,35
+570799,Christian,Villanueva,ROK,99,3B,411,3b-4e23 1b-4e20 2b-4e71 ss-4e48,99,12
+571431,Matt,Adams,CHW,20,1B,367,1b-4e9 lf-5(+2)e13 rf-5e13,27,72
+571437,Aaron,Altherr,RBJ,18,RF,307,rf-2(-2)e3 cf-2e3 lf-2e3,30,2
+571448,Nolan,Arenado,MFM,12,3B,725,3b-1e15,100,70
+571466,Tucker,Barnhart,SSS,25,C,565,"c-1(-1)e1,T-2(pb-1) 1b-4e26",44,29
+571506,Justin,Bour,QCK,16,1B,545,1b-5e6,13,74
+571595,Noel,"Cuevas, N",ROK,99,RF,168,rf-4(0)e7 lf-4e7 cf-4e7,15,6
+571602,Matt,Davidson,LMH,19,1B,534,1b-4e8 3b-4e27,79,23
+571657,Kyle,Farmer,ROK,99,3B,81,"3b-4e11 c-4(0)e16,T-20(pb-0) 1b-4e16",39,10
+571679,David,Freitas,ROK,99,C,111,"c-4(+1)e5,T-8(pb-3) 1b-5e25",15,18
+571697,Scooter,Gennett,MFM,12,2B,688,2b-4e13,71,89
+571718,Brian,Goodwin,ROK,99,CF,193,cf-3(-1)e8 lf-3e8 rf-3e8,6,42
+571740,Billy,Hamilton,MFM,12,CF,605,cf-1(-3)e2,23,22
+571745,Mitch,Haniger,NWP,15,RF,733,rf-3(-2)e8 cf-4e8 lf-3e8,84,86
+571771,Enrique,Hernandez,NWP,15,CF,493,cf-3(-1)e3 2b-3e6 ss-4e10 rf-3e3 lf-3e3 1b-4e22 3b-4e65,62,84
+571788,Brock,Holt,MNJ,9,2B,394,2b-3e5 ss-4e10 rf-4(0)e5 1b-4e25 3b-4e16 lf-4e5,41,58
+571851,Spencer,Kieboom,ROK,99,C,156,"c-3(-1)e4,T-11(pb-3) 1b-4e30 3b-5e65",36,14
+571875,Jake,Lamb,MBB,10,3B,257,3b-4e10,4,23
+571912,Luke,Maile,NYK,8,C,250,"c-2(0)e8,T-8(pb-2)",72,22
+571918,Deven,Marrero,ROK,99,3B,93,3b-2e8 2b-3e11,6,0
+571970,Max,Muncy,ROK,99,1B,517,1b-4e13 3b-4e39 2b-4e16 lf-5(+2)e3,84,96
+571974,John Ryan,Murphy,ROK,99,C,241,"c-2(+1)e9,T-13(pb-1)",38,3
+571976,Wil,Myers,RB2,17,3B,376,3b-5e27 lf-2(-2)e2 rf-3e2 1b-3e3,64,44
+571980,Tyler,Naquin,ROK,99,RF,198,rf-4(-2)e1 cf-4e1 lf-4e1,25,11
+572008,Chris,Owings,ROK,99,RF,335,rf-4(+1)e10 cf-4e10 3b-4e13 2b-3e5 lf-4e10,51,0
+572033,Josh,Phegley,RBJ,18,C,109,"c-3(-1)e5,T-1(pb-9)",27,7
+572039,Stephen,Piscotty,ULO,24,RF,647,rf-3(-1)e3,58,90
+572041,A.J.,Pollock,QCK,16,CF,488,cf-1(0)e2,48,85
+572073,Joey,Rickard,NPP,14,RF,251,rf-3(+1)e3 lf-3e3 cf-3e3,70,19
+572122,Kyle,Seager,CHW,20,3B,683,3b-2e15 2b-4e41,50,17
+572191,Michael,Taylor,FYS,5,CF,420,cf-1(-3)e2,15,32
+572204,Trayce,Thompson,ROK,99,RF,149,rf-2(-2)e6 lf-2e6 cf-3e6,1,0
+572228,Luke,Voit,LMH,19,1B,176,1b-4e10 rf-5(+2)e12,100,99
+572287,Mike,Zunino,NPP,14,C,436,"c-1(-3)e1,T-4(pb-5)",20,24
+572365,Ryan,Goins,ROK,99,2B,131,2b-2e6 3b-3e11 ss-3e8,7,10
+572761,Matt,Carpenter,RRF,23,3B,732,3b-4e20 1b-3e19 2b-4e32,74,93
+572816,Corey,Dickerson,MMM,6,LF,577,lf-2(+1)e1,70,80
+572821,Brian,Dozier,QCK,16,2B,685,2b-2e14,26,26
+573135,Tyler,Saladino,MMM,6,SS,149,ss-3e44 3b-3e25 2b-3e71,11,75
+575929,Willson,Contreras,GTG,7,C,576,"c-3(-3)e1,T-19(pb-2) lf-4(0)e25 1b-4e16",60,29
+576397,Jedd,Gyorko,MCD,11,3B,434,3b-3e22 2b-4e56 ss-4e88 1b-4e25,91,25
+578428,Jose,Iglesias,GTG,7,SS,496,ss-1e10,80,27
+581527,Devon,Travis,SHS,21,2B,411,2b-4e16,68,7
+588751,Adeiny,Hechavarria,RBJ,18,SS,344,ss-2e8 3b-2e37,42,9
+591720,Ronald,Torreyes,RB2,17,2B,112,2b-2e5 3b-2e50 ss-3e7,54,43
+591741,Jose,Osuna,CHW,20,1B,120,1b-3e14 3b-4e10 rf-5(0)e7,64,2
+591971,Breyvic,"Valera, B",ROK,99,2B,78,2b-4e37 3b-4e26 ss-4e28 rf-4(+2)e25,48,6
+592122,Tyler,Austin,ROK,99,1B,289,1b-4e4,75,36
+592178,Kris,Bryant,SKE,22,3B,478,3b-3e21 lf-4(0)e25 rf-4e25 1b-4e22,99,46
+592192,Mark,Canha,NYK,8,CF,439,cf-4(0)e7 lf-3e7 rf-4e7 1b-4e12,94,17
+592200,Curt,Casali,ROK,99,C,167,"c-3(+1)e5,T-11(pb-2) 1b-4e25 2b-5e71",94,58
+592206,Nick,Castellanos,SHS,21,RF,736,rf-5(0)e3,98,72
+592230,Kaleb,Cowart,ROK,99,2B,134,2b-3e10 3b-2e13 1b-4e25 ss-4e8 lf-4(+2)e10,0,0
+592261,Delino,DeShields,LMH,19,CF,414,cf-2(+1)e12,33,3
+592273,Brandon,Drury,ROK,99,3B,93,3b-3e50 2b-4e15 1b-5e25 ss-4e16,4,0
+592325,Ben,Gamel,LMH,19,LF,317,lf-3(0)e7 rf-3e7 cf-4e7 1b-4e25,17,67
+592348,Niko,Goodrum,ROK,99,2B,534,2b-3e23 1b-3e19 lf-3(+2)e9 3b-4e39 ss-4e38 rf-4e9,64,38
+592387,Ryon,Healy,NYK,8,1B,572,1b-4e10 3b-4e62,19,46
+592407,Bryan,Holaday,ROK,99,C,177,"c-3(-1)e1,T-1(pb-0)",2,6
+592444,JaCoby,Jones,ULO,24,CF,498,cf-1(0)e1 lf-1e1,22,8
+592450,Aaron,Judge,MCD,11,RF,538,rf-2(-5)e5 cf-3e5,85,89
+592518,Manny,Machado,MCD,11,SS,768,ss-3e14 3b-2e10,88,95
+592567,Colin,Moran,RBJ,18,3B,500,3b-4e15,6,60
+592626,Joc,Pederson,SSS,25,CF,474,lf-3(+1)e2 cf-4e2 rf-4e2,5,86
+592663,J.T.,Realmuto,MFM,12,C,567,"c-2(-3)e3,T-14(pb-3) 1b-3e9",22,98
+592669,Hunter,Renfroe,ULO,24,LF,476,lf-3(-3)e14 rf-3e14,73,84
+592680,Yadiel,Rivera,ROK,99,3B,174,3b-3e8 ss-3e60 2b-3e22 1b-4e25 lf-4(+1)e16 cf-4e16,19,0
+592685,Drew,"Robinson, D",ROK,99,CF,138,cf-4(0)e14 2b-4e20 lf-3e14 3b-4e22 ss-4e88,20,1
+592696,Eddie,Rosario,NWP,15,LF,648,lf-3(-3)e12 rf-3e12 3b-5e65 cf-4e12,62,80
+592743,Andrelton,Simmons,CHW,20,SS,648,ss-1e12,51,75
+592863,Mason,Williams,ROK,99,RF,143,rf-2(-1)e1 lf-2e1 cf-3e1,20,60
+592885,Christian,Yelich,OSS,13,RF,702,rf-1(0)e3 lf-1e3 cf-2e3,97,98
+593160,Whit,Merrifield,RB2,17,2B,762,2b-2e10 cf-3(+1)e5 rf-3e5 1b-3e11 lf-3e5,95,68
+593428,Xander,Bogaerts,BMH,1,SS,625,ss-3e12,67,93
+593528,Jorge,Bonifacio,RRF,23,RF,292,rf-4(0)e6 lf-4e6,52,18
+593700,Alen,Hanson,LMH,19,2B,333,2b-4e19 lf-4(-1)e16 ss-4e10 3b-4e19 rf-4e16,2,75
+593871,Jorge,Polanco,NYK,8,SS,360,ss-3e28,19,89
+593934,Miguel,Sano,NWP,15,3B,327,3b-4e24 1b-5e30,20,23
+593993,Jose,"Briceno, J",ROK,99,C,138,"c-3(-1)e1,T-14(pb-4) 1b-4e30",97,1
+594011,Rosell,"Herrera, R",ROK,99,RF,327,rf-3(-1)e5 2b-3e10 cf-3e5 3b-4e34 lf-4e5,5,21
+594694,Wilmer,Difo,MBB,10,2B,492,2b-3e5 3b-3e20 ss-3e18 cf-5(0)e16,2,22
+594777,Kole,Calhoun,FYS,5,RF,598,rf-2(-2)e5 cf-4e5,16,13
+594807,Adam,Duvall,NPP,14,LF,463,lf-2(-2)e2 1b-4e26 3b-5e39,14,10
+594809,Adam,Eaton,BMH,1,RF,393,rf-3(-1)e7 lf-3e7,17,71
+594824,Greg,Garcia,MMM,6,2B,221,2b-4e8 ss-4e26 3b-4e47,3,20
+594828,Evan,Gattis,SYS,4,C,484,"c-5(+2)e16,T-15(pb-0)",69,23
+594953,Daniel,Palka,ROK,99,RF,492,rf-5(+1)e3 lf-5e3,16,79
+594988,Scott,Schebler,SST,26,RF,461,rf-3(0)e11 lf-3e11 cf-4e11,80,44
+595281,Kevin,Kiermaier,FYS,5,CF,393,cf-1(-3)e5,9,30
+595284,Andrew,Knapp,BMH,1,C,232,"c-4(+2)e11,T-18(pb-4) 1b-4e25",5,6
+595375,J.T.,Riddle,BMW,2,SS,361,ss-3e12,5,28
+595751,Jorge,Alfaro,MFM,12,C,398,"c-4(-2)e3,T-15(pb-2) 3b-5e65",48,51
+595777,Jurickson,Profar,MFM,12,SS,635,ss-4e34 3b-3e39 1b-4e4 2b-4e18 lf-4(+2)e9,60,52
+595879,Javier,Baez,MCD,11,2B,694,2b-1e13 ss-2e26 3b-3e31,92,94
+595885,Greg,Bird,SST,26,1B,332,1b-3e5,54,6
+595909,Jake,Cave,ROK,99,CF,331,cf-3(-1)e9 rf-3e9 lf-3e9,15,75
+595956,Cam,Gallagher,ROK,99,C,72,"c-3(0)e9,T-1(pb-0)",5,3
+595978,Austin,Hedges,SHS,21,C,356,"c-1(-1)e6,T-20(pb-2)",34,52
+596019,Francisco,Lindor,NPP,14,SS,804,ss-1e14,98,62
+596059,Rougned,Odor,SST,26,2B,568,2b-3e12,45,52
+596103,Austin,Slater,RB2,17,LF,241,lf-3(-1)e10 1b-4e17 rf-4e10,30,18
+596105,Dwight,Smith,ROK,99,LF,80,lf-4(+1)e7 rf-4e7,4,93
+596115,Trevor,Story,FYS,5,SS,705,ss-1e14,99,84
+596119,Blake,Swihart,ROK,99,C,228,"c-4(0)e2,T-3(pb-0) rf-4(+1)e8 1b-4e26 lf-4e8 3b-4e65 2b-5e71",4,13
+596129,Daniel,Vogelbach,ROK,99,1B,110,1b-5e16,1,64
+596142,Gary,Sanchez,MCD,11,C,406,"c-4(-2)e5,T-13(pb-10)",69,3
+596144,Cheslor,Cuthbert,ROK,99,3B,125,3b-4e29 1b-4e18,33,2
+596146,Max,Kepler,NPP,14,RF,663,rf-2(-1)e1 cf-2e1,57,21
+596451,Roman,Quinn,ROK,99,CF,155,cf-2(-1)e10 rf-2e10 lf-2e10 ss-5e33,75,43
+596748,Maikel,Franco,NPP,14,3B,508,3b-4e22,28,84
+596847,Ji-Man,Choi,ROK,99,1B,238,1b-4e24 lf-5(+2)e12,0,96
+598265,Jackie,Bradley,SYS,4,CF,572,cf-1(-3)e7 rf-1e7,9,47
+598284,Peter,O'Brien,ROK,99,1B,81,1b-4e11 rf-5(+2)e5,100,95
+599096,Dilson,Herrera,ROK,99,LF,105,lf-4(+1)e16 2b-3e14 3b-4e18 1b-4e25,39,4
+600303,Tommy,La Stella,MMM,6,3B,204,3b-4e35 2b-4e19,2,49
+600474,Pedro,Severino,ROK,99,C,229,"c-2(-1)e2,T-1(pb-3)",10,0
+600524,Renato,Nunez,ROK,99,3B,281,3b-4e32 lf-5(+2)e25,39,62
+600869,Jeimer,Candelario,RB2,17,3B,666,3b-4e12,80,10
+602922,Jose,Rondon,ROK,99,3B,118,3b-4e20 ss-4e16 2b-4e62 1b-4e25,32,77
+605113,Nick,Ahmed,NPP,14,SS,612,ss-1e10,58,15
+605119,Brian,Anderson,RRF,23,RF,717,rf-3(-2)e2 3b-3e19,47,52
+605131,Austin,Barnes,RB2,17,C,254,"c-2(-2)e3,T-1(pb-0) 2b-4e24",44,0
+605137,Josh,Bell,OSS,13,1B,636,1b-5e7,54,44
+605141,Mookie,Betts,MBB,10,RF,661,rf-1(-4)e1 cf-2e1 2b-4e24,100,100
+605170,Victor,Caratini,QCK,16,C,212,"c-4(+2)e4,T-1(pb-3) 1b-4e17 3b-5e34",2,27
+605204,J.D.,Davis,MNJ,9,3B,124,3b-4e33 1b-4e7 lf-5(+2)e9,13,0
+605233,Derek,Fisher,SST,26,LF,93,lf-3(+2)e4 cf-4e4 rf-4e4,26,1
+605244,Aramis,Garcia,ROK,99,1B,71,"1b-4e17 c-3(0)e10,T-20(pb-0)",53,99
+605361,Nick,Martini,ROK,99,LF,190,lf-3(+1)e9 cf-4e9 rf-4e9,1,89
+605412,Joe,Panik,SHS,21,2B,423,2b-3e11 1b-4e25,7,50
+605421,Michael,"Perez, M",ROK,99,C,84,"c-3(-1)e3,T-6(pb-0)",63,57
+605480,Mallex,Smith,QCK,16,CF,580,cf-3(0)e8 rf-4e8 lf-4e8,77,74
+605486,Cory,Spangenberg,SSS,25,2B,356,2b-4e10 3b-4e20 lf-4(+2)e8 ss-4e48,1,41
+605508,Charlie,Tilson,ROK,99,LF,128,lf-3(+1)e5 cf-3e5,1,39
+605509,Kelby,Tomlinson,ROK,99,2B,164,2b-3e39 ss-4e14 3b-3e8,6,2
+605512,Preston,Tucker,ROK,99,LF,197,lf-4(+1)e4 rf-4e4,3,35
+605548,Bradley,Zimmer,BMW,2,CF,125,cf-2(-3)e2,19,5
+606115,Orlando,Arcia,NWP,15,SS,395,ss-1e26,20,9
+606192,Teoscar,Hernandez,MNJ,9,LF,569,lf-5(+1)e12 rf-5e12,52,64
+606299,Jose,Peraza,HWC,3,SS,727,ss-3e24 rf-4(+1)e5,68,51
+606466,Ketel,Marte,HWC,3,2B,631,2b-3e8 ss-4e20,96,19
+606988,Grayson,Greiner,ROK,99,C,125,"c-4(+1)e5,T-1(pb-3)",67,5
+607043,Brandon,Nimmo,GTG,7,RF,564,rf-2(+1)e1 cf-3e1 lf-2e1,54,94
+607054,Jace,Peterson,ROK,99,3B,265,3b-4e8 2b-4e12 lf-4(0)e6 rf-4e6 ss-4e42,3,31
+607208,Trea,Turner,MFM,12,SS,806,ss-2e12,60,49
+607257,Raffy,Lopez,ROK,99,C,126,"c-3(+1)e1,T-9(pb-0) 1b-5e25 3b-5e37",1,1
+607345,Kevan,Smith,BMW,2,C,199,"c-4(+3)e4,T-3(pb-0)",96,26
+607387,Ryan,Rua,ROK,99,LF,159,lf-3(-1)e2 1b-3e6 cf-4e2 rf-3e2,34,0
+607430,John,Andreoli,ROK,99,LF,73,lf-4(+1)e1 rf-4e1 cf-4e1,12,8
+607468,Alex,Blandino,ROK,99,2B,155,2b-3e14 3b-3e31 ss-4e48 1b-4e25 lf-4(+2)e25,41,17
+607680,Kevin,Pillar,RBJ,18,CF,583,cf-1(-2)e7,37,38
+607776,Mac,Williamson,ROK,99,LF,115,lf-4(0)e2 rf-4e2,81,11
+608070,Jose,Ramirez,GTG,7,3B,753,3b-1e13 2b-2e30,68,93
+608324,Alex,Bregman,FYS,5,3B,759,3b-1e16 ss-3e20 2b-3e41 lf-4(+2)e25,94,88
+608336,Joey,Gallo,MMM,6,LF,631,lf-3(-3)e3 1b-3e5 rf-3e3 cf-4e3,75,50
+608365,Addison,Russell,OSS,13,SS,506,ss-1e25,49,24
+608369,Corey,Seager,RRF,23,SS,123,ss-3e20,39,69
+608384,Nick,Williams,MCD,11,RF,483,rf-4(+1)e5 lf-4e5,27,56
+608385,Jesse,Winker,QCK,16,LF,363,lf-4(+1)e2 rf-4e2,35,85
+608475,Dawel,"Lugo, D",ROK,99,2B,111,2b-4e19,63,2
+608577,Nomar,Mazara,BMH,1,RF,582,rf-4(-2)e3 lf-4e3,47,58
+608596,Tom,Murphy,ROK,99,C,105,"c-4(0)e16,T-20(pb-0)",24,16
+608597,Ronald,"Guzman, R",ROK,99,1B,462,1b-2e9,15,43
+608654,Johnny,Field,ROK,99,LF,251,lf-3(-1)e3 rf-3e3 cf-3e3,68,6
+608671,Travis,Jankowski,RB2,17,RF,423,rf-2(+1)e4 cf-2e4 lf-2e4,9,56
+608700,Kevin,Plawecki,OSS,13,C,293,"c-3(+1)e5,T-4(pb-0) 1b-4e22",51,20
+608701,Rob,Refsnyder,ROK,99,LF,112,lf-4(+2)e6 rf-4e6 1b-5e16,17,0
+609275,Raul,Mondesi,SKE,22,SS,315,ss-2e19 2b-2e10,90,79
+609280,Miguel,"Andujar, M",RBJ,18,3B,658,3b-4e19,71,92
+614173,Franchy,"Cordero, F",ROK,99,LF,168,lf-3(-1)e14 cf-3e14 rf-3e14,26,75
+614177,Franmil,"Reyes, Fr",ROK,99,RF,313,rf-4(0)e5,98,77
+620439,Franklin,Barreto,GTG,7,2B,81,2b-4e18 ss-4e25,59,79
+620446,Richard,"Urena, R",LMH,19,SS,117,ss-4e32 2b-3e14 3b-4e32,84,44
+621002,Daniel,Robertson,NPP,14,SS,357,ss-3e38 2b-2e10 3b-3e21 lf-4(+2)e16 1b-4e25,71,57
+621020,Dansby,Swanson,QCK,16,SS,574,ss-2e12,12,37
+621028,Kevin,Newman,ROK,99,SS,104,ss-4e24 2b-3e32,43,0
+621035,Chris,Taylor,NWP,15,SS,651,ss-3e22 cf-3(0)e6 lf-2e6 2b-3e34,48,69
+621043,Carlos,Correa,SHS,21,SS,500,ss-2e10,76,24
+621044,Jesmuel,"Valentin, J",ROK,99,3B,96,3b-4e33 2b-4e59 ss-4e29 lf-5(+2)e13 rf-5e13,36,1
+621311,David,Dahl,SKE,22,LF,291,lf-2(-1)e2 rf-2e2 cf-3e2,26,95
+621433,Brett,Phillips,SKE,22,CF,159,cf-2(-4)e3 rf-2e3 lf-2e3,1,4
+621439,Byron,Buxton,FYS,5,CF,102,cf-1(-3)e2,0,0
+621446,Lewis,Brinson,RRF,23,CF,439,cf-2(0)e15,22,5
+621453,Steven,Duggar,SYS,4,CF,166,cf-2(-1)e8,69,26
+621493,Taylor,Ward,ROK,99,3B,159,3b-4e22,53,0
+621512,Tomas,Nido,ROK,99,C,96,"c-3(+2)e14,T-12(pb-1)",16,0
+621514,Christin,Stewart,ROK,99,LF,77,lf-4(+2)e22,15,75
+621559,Max,Moroff,ROK,99,2B,73,2b-3e15 ss-3e42,46,2
+621563,Joey,Wendle,ROK,99,2B,577,2b-2e8 3b-3e6 lf-4(+2)e13 ss-4e42,62,71
+621566,Matt,Olson,MCD,11,1B,715,1b-1e7,48,85
+621573,Austin,"Dean, A",ROK,99,LF,132,lf-3(0)e6,11,39
+622046,Chris,Shaw,SYS,4,LF,67,lf-5(+2)e12,1,2
+622110,Matt,Duffy,NWP,15,3B,605,3b-3e18 ss-4e40,58,63
+622168,Yairo,"Munoz, Y",ROK,99,SS,355,ss-4e38 2b-3e37 3b-3e47 rf-4(+1)e25 lf-4e25 cf-4e25,70,44
+622194,Bruce,Maxwell,ROK,99,C,63,"c-3(0)e1,T-1(pb-1)",0,6
+622534,Manuel,Margot,BMH,1,CF,560,cf-2(-1)e4,34,21
+622569,Pablo,"Reyes, Pab",ROK,99,RF,70,rf-4(+1)e14 lf-4e14 3b-4e65 2b-4e26,99,54
+622666,Johan,Camargo,LMH,19,3B,566,3b-2e16 ss-3e21 2b-3e71,72,56
+622682,Victor,"Reyes, V",ROK,99,CF,239,cf-3(-1)e4 lf-3e4 rf-3e4,11,5
+623520,David,Bote,ROK,99,3B,223,3b-2e16 2b-3e29 ss-4e14 1b-4e16 lf-4(+1)e10,66,22
+623993,Anthony,Santander,ROK,99,RF,118,rf-4(+1)e12,19,4
+624407,Tzu-Wei,"Lin, T",MBB,10,SS,81,ss-3e36 2b-3e12 3b-3e18 cf-4(+2)e25,2,73
+624414,Christian,Arroyo,SYS,4,2B,65,2b-4e4 3b-3e24,71,36
+624424,Michael,Conforto,MBB,10,LF,689,lf-3(0)e3 cf-4e3 rf-4e3,81,61
+624428,Adam,Frazier,GTG,7,2B,382,2b-4e18 lf-3(+1)e15 rf-3e15 cf-4e15,14,74
+624577,Yasiel,Puig,FYS,5,RF,481,rf-2(-4)e12,16,99
+624585,Jorge,Soler,GTG,7,RF,276,rf-4(+1)e10,99,52
+624636,Carlos,Tocci,ROK,99,CF,140,cf-2(+1)e4 lf-2e4 rf-2e4,31,2
+628336,Jose Miguel,Fernandez,ROK,99,1B,135,1b-4e4 2b-4e12 3b-4e10,29,43
+628338,Guillermo,Heredia,NYK,8,CF,356,cf-2(-2)e0 lf-2e0,31,29
+640447,Phillip,Ervin,RB2,17,LF,262,lf-3(0)e9 rf-3e9 cf-4e9,55,38
+640457,Austin,Meadows,RBJ,18,RF,207,rf-2(0)e8 cf-3e8 lf-2e8,91,50
+640461,Chad,Pinder,LMH,19,LF,358,lf-2(-3)e6 2b-3e5 3b-4e44 rf-3e6 ss-4e88 cf-4e6 1b-4e25,74,53
+641313,Tim,Anderson,MCD,11,SS,657,ss-3e22,70,15
+641319,Carlos,Asuaje,LMH,19,2B,234,2b-3e4 3b-4e65,1,22
+641343,Jake,Bauers,SKE,22,1B,414,1b-2e12 lf-4(+1)e16 rf-4e16,14,29
+641355,Cody,Bellinger,HWC,3,1B,684,1b-2e4 cf-3(-2)e6 rf-4e6,38,85
+641432,Willie,Calhoun,ULO,24,LF,116,lf-5(+2)e14,3,16
+641487,J.P.,Crawford,FYS,5,SS,143,ss-4e52 3b-3e20,3,40
+641525,Brandon,Dixon,ROK,99,1B,137,1b-3e9 rf-4(+1)e10 2b-4e32 3b-4e41 lf-4e10,7,3
+641531,Hunter,Dozier,ROK,99,1B,424,1b-4e13 3b-3e14 rf-4(+1)e9,17,51
+641553,Adam,Engel,NWP,15,CF,492,cf-1(-1)e9,24,9
+641583,Dustin,Fowler,SST,26,CF,220,cf-3(-1)e3 lf-3e3 rf-4e3,1,15
+641598,Mitch,Garver,ROK,99,C,364,"c-4(+2)e2,T-7(pb-4) 1b-4e30",31,60
+641645,Luis,Guillorme,ROK,99,3B,82,3b-4e15 2b-3e10,11,3
+641684,Michael,Hermosillo,ROK,99,RF,66,rf-3(0)e9 cf-4e9 lf-3e9,45,2
+641820,Trey,Mancini,BMH,1,LF,688,lf-4(0)e2 1b-4e12,25,48
+641856,Billy,McKinney,ROK,99,LF,143,lf-3(+1)e5 rf-3e5 1b-5e28,17,80
+641857,Ryan,McMahon,ROK,99,1B,219,1b-4e7 2b-4e10 3b-4e5,59,11
+641933,Tyler,O'Neill,MBB,10,RF,151,rf-3(-1)e11 lf-3e11 cf-4e11,82,88
+642082,Chance,Sisco,SHS,21,C,190,"c-4(+1)e1,T-2(pb-0)",5,5
+642086,Dominic,"Smith, D",SKE,22,1B,161,1b-3e22 lf-5(+2)e16,3,44
+642133,Rowdy,Tellez,ROK,99,1B,79,1b-4e21,26,100
+642162,Pat,Valaika,ROK,99,2B,144,2b-4e6 1b-4e16 3b-4e13 ss-4e6,4,0
+642180,Tyler,Wade,ROK,99,2B,77,2b-3e11 ss-3e23 lf-4(+1)e17 rf-4e17 3b-3e32,0,1
+642336,Francisco,"Mejia, F",OSS,13,C,68,"c-4(-1)e6,T-20(pb-18)",9,24
+642423,Magneuris,Sierra,ROK,99,CF,169,cf-3(-2)e16 rf-3e16,20,0
+642708,Amed,Rosario,NYK,8,SS,641,ss-3e18,70,19
+642715,Willy,Adames,RRF,23,SS,351,ss-3e30 2b-3e19,34,73
+642851,Austin,Wynns,ROK,99,C,127,"c-3(-1)e1,T-5(pb-2)",4,91
+643217,Andrew,Benintendi,OSS,13,LF,715,lf-1(-2)e5 cf-3e5,46,83
+643376,Danny,Jansen,ROK,99,C,99,"c-4(+2)e7,T-4(pb-0)",49,67
+643393,Tony,Kemp,ROK,99,LF,316,lf-4(+2)e2 cf-4e2 2b-4e14 rf-4e2,49,48
+643396,Isiah,Kiner-Falefa,ROK,99,3B,423,"3b-3e21 c-4(0)e1,T-4(pb-4) 2b-3e17 ss-4e84",76,20
+643446,Jeff,McNeil,ROK,99,2B,263,2b-3e6 3b-4e65,82,97
+643603,Tyler,White,MBB,10,1B,257,1b-4e4,96,81
+645277,Ozzie,Albies,BMH,1,2B,743,2b-2e11,94,24
+645302,Victor,Robles,RRF,23,CF,69,cf-2(-2)e2 lf-2e2 rf-2e2,89,80
+646240,Rafael,Devers,OSS,13,3B,537,3b-4e34,29,64
+649557,Aledmys,Diaz,SYS,4,SS,489,ss-4e12 3b-3e11,58,65
+650402,Gleyber,Torres,LMH,19,2B,520,2b-2e19 ss-3e48,86,60
+650490,Yandy,"Diaz, Y",OSS,13,1B,132,1b-4e10 3b-4e30,53,93
+656185,Greg,Allen,ROK,99,CF,307,cf-2(-1)e2 rf-2e2 lf-2e2,6,38
+656305,Matt,Chapman,SSS,25,3B,666,3b-1e23,73,95
+656555,Rhys,Hoskins,BMW,2,LF,710,lf-5(+2)e7 1b-4e13,20,91
+656669,Jordan,Luplow,CHW,20,LF,112,lf-3(-2)e7 rf-3e7 cf-4e7,35,6
+656775,Cedric,Mullins,ROK,99,CF,206,cf-4(+1)e4,2,58
+656811,Ryan,O'Hearn,ROK,99,1B,186,1b-4e26 lf-5(+2)e8,26,100
+656941,Kyle,Schwarber,SST,26,LF,555,lf-4(-3)e2,34,80
+657077,Alex,Verdugo,GTG,7,LF,94,lf-3(-2)e9 rf-3e9 cf-3e9,22,68
+657557,Paul,DeJong,MNJ,9,SS,520,ss-3e17,28,70
+657656,Ramon,Laureano,ROK,99,CF,190,cf-2(-3)e4,68,87
+660162,Yoan,Moncada,SKE,22,2B,710,2b-4e23,16,47
+660271,Shohei,Ohtani,ROK,99,DH,400,,28,100
+660670,Ronald,Acuna,SKE,22,LF,526,lf-2(0)e8 cf-3e8 rf-3e8,96,96
+663656,Kyle,Tucker,OSS,13,LF,77,lf-4(+1)e18 rf-4e18,5,0
+664023,Ian,Happ,MFM,12,CF,502,cf-4(0)e4 lf-4e4 3b-4e26 rf-4e4 1b-4e25 2b-4e11,12,60
+664040,Brandon,Lowe,ROK,99,2B,160,2b-4e6 lf-4(+2)e3 rf-4e3,38,66
+664056,Harrison,Bader,SST,26,CF,451,cf-1(-2)e5 rf-2e5 lf-2e5,88,38
+664057,Andrew,Stevenson,ROK,99,LF,90,lf-2(+1)e14 cf-2e14,4,20
+664058,David,Fletcher,ROK,99,2B,329,2b-2e4 3b-3e6 ss-3e12 rf-4(+2)e25,43,45
+664068,Scott,Kingery,SYS,4,SS,523,ss-3e14 3b-3e56 lf-4(+1)e25 2b-3e62 rf-4e25,15,23
+665742,Juan,Soto,NPP,14,LF,542,lf-3(-1)e3,89,95
+666971,Lourdes,Gurriel,ROK,99,SS,284,ss-4e29 2b-4e15,78,48
+112526,Bartolo,Colon,RB2,17,SP,160.6,S(5) R(3),41,3
+279571,Matt,Belisle,ROK,99,RP,37.4,R(1),11,1
+282332,CC,Sabathia,SST,26,SP,168.3,S(5),77,43
+407822,Jorge,De La Rosa,RBJ,18,RP,61.6,R(2) C(0),48,55
+407845,Fernando,Rodney,ROK,99,CL,70.4,R(1) C(4),80,34
+424144,Oliver,Perez,RB2,17,RP,35.2,R(1),93,100
+425492,Ryan,Madson,CHW,20,RP,58.3,R(1) C(2),29,37
+425794,Adam,Wainwright,MBB,10,SP,44,S(5),56,26
+425844,Zack,Greinke,MBB,10,SP,228.8,S(6*),71,45
+429719,Edwin,Jackson,SYS,4,SP,101.2,S(5),58,62
+429722,Ervin,Santana,BMW,2,SP,27.5,S(4),6,0
+430935,Cole,Hamels,MMM,6,SP,210.1,S(6),55,47
+433586,Santiago,Casilla,ROK,99,RP,34.1,R(2) C(0),95,91
+433587,Felix,Hernandez,RBJ,18,SP,171.6,S(5),25,37
+433589,Yusmeiro,Petit,SYS,4,RP,102.3,R(2),75,58
+434378,Justin,Verlander,MBB,10,SP,235.4,S(6*),86,70
+434538,Francisco,Liriano,NWP,15,SP,147.4,S(5),92,28
+434628,Jason,Hammel,MNJ,9,SP,139.7,S(6) R(3),51,1
+434671,Anibal,Sanchez,GTG,7,SP,150.7,S(6),87,43
+435043,Zach,Duke,ROK,99,RP,57.2,R(1),73,32
+435221,Brandon,McCarthy,ROK,99,SP,86.9,S(5),13,5
+444468,Hector,Rondon,QCK,16,CL,64.9,R(1) C(3),54,53
+445213,Brandon,Kintzler,FYS,5,RP,67.1,R(1) C(1),25,31
+445276,Kenley,Jansen,SST,26,CL,79.2,R(1) C(6),88,51
+445926,Jesse,Chavez,BMW,2,CL,104.5,R(3) C(3),69,71
+446099,John,Axford,ROK,99,RP,60.5,R(2),76,47
+446372,Corey,Kluber,SST,26,SP,236.5,S(7*),67,83
+446399,Brett,Cecil,ROK,99,RP,36.3,R(1),13,9
+446899,Brad,Ziegler,ROK,99,CL,81.4,R(1) C(4),20,73
+448179,Rich,Hill,SKE,22,SP,146.3,S(6),65,65
+448281,Sean,Doolittle,MMM,6,CL,49.5,R(1) C(6),99,98
+448306,James,Shields,NWP,15,SP,225.5,S(6*),73,21
+448609,Tony,Sipp,GTG,7,RP,42.9,R(1),82,73
+448802,Jaime,Garcia,SSS,25,RP,90.2,S(5) R(3),80,15
+448855,Junior,Guerra,SKE,22,SP,155.1,S(5) R(3),31,35
+450203,Charlie,Morton,SHS,21,SP,183.7,S(6),65,74
+450212,Pat,Neshek,ROK,99,CL,26.4,R(1) C(3),12,92
+450306,Jason,Vargas,BMH,1,SP,101.2,S(5),46,14
+450729,Doug,Fister,ROK,99,SP,72.6,S(5),56,21
+451584,Wade,Davis,ULO,24,CL,71.5,R(1) C(6),91,65
+451596,Yovani,Gallardo,CHW,20,SP,103.4,S(5) R(3),46,7
+451661,Josh,Fields,NYK,8,RP,45.1,R(1) C(1),96,74
+452657,Jon,Lester,QCK,16,SP,200.2,S(6),12,67
+453172,Jared,Hughes,RRF,23,RP,86.9,R(2) C(2),92,85
+453178,Ian,Kennedy,MFM,12,SP,132,S(6),44,14
+453192,Andrew,Miller,ULO,24,RP,37.4,R(1) C(1),67,49
+453214,Steven,Wright,BMH,1,SP,59.4,S(7) R(3) C(0),67,75
+453265,Tony,Watson,NPP,14,RP,72.6,R(1),72,83
+453281,Wade,LeBlanc,MCD,11,SP,178.2,S(5) R(3),40,50
+453284,Blake,Parker,FYS,5,CL,72.6,R(1) C(4),32,46
+453286,Max,Scherzer,MMM,6,SP,243.1,S(7*),83,92
+453329,Clay,Buchholz,ROK,99,SP,107.8,S(6),91,48
+453343,Mark,Melancon,MMM,6,RP,42.9,R(1) C(2),23,33
+453344,Brandon,Morrow,NWP,15,CL,34.1,R(1) C(6),97,64
+453385,Clayton,Richard,MNJ,9,SP,174.9,S(6),64,27
+453562,Jake,Arrieta,FYS,5,SP,190.3,S(6),46,78
+455119,Chris,Martin,ROK,99,RP,46.2,R(1),41,59
+456034,David,Price,RB2,17,SP,193.6,S(6),58,60
+456501,Johnny,Cueto,RB2,17,SP,58.3,S(6),42,49
+456696,David,Hernandez,NWP,15,RP,70.4,R(2),83,84
+456701,Homer,Bailey,ROK,99,SP,116.6,S(5),6,10
+457915,Javy,Guerra,ROK,99,RP,39.6,R(1) C(0),21,15
+457918,J.A.,Happ,NYK,8,SP,195.8,S(6),95,57
+458006,Matt,Albers,ROK,99,RP,37.4,R(2) C(0),1,2
+458584,Xavier,Cedeno,ROK,99,RP,36.3,R(1) C(0),76,85
+458677,Justin,Wilson,HWC,3,RP,60.5,R(1),67,52
+458681,Lance,Lynn,RRF,23,SP,172.7,S(5) R(3),26,67
+458690,Chris,Volstad,ROK,99,RP,51.7,R(2),1,15
+458708,Josh,Tomlin,ROK,99,SP,77,S(4) R(3),0,11
+458924,Jonny,Venters,ROK,99,RP,37.4,R(1) C(2),95,54
+459429,Jake,McGee,SSS,25,RP,56.1,R(1) C(0),4,13
+460283,Jerry,Blevins,ROK,99,RP,47.3,R(1) C(0),36,70
+461325,Tyler,Clippard,SHS,21,RP,75.9,R(1) C(2),85,35
+461829,Gio,Gonzalez,MMM,6,SP,188.1,S(5),72,37
+461833,Phil,Hughes,ROK,99,SP,36.3,S(4) R(3),1,3
+461872,Anthony,Swarzak,BMW,2,CL,28.6,R(1) C(3),3,26
+462136,Marco,Estrada,NYK,8,SP,158.4,S(5),36,9
+462382,Jim,Johnson,ROK,99,RP,69.3,R(1) C(1),10,67
+465657,Joakim,Soria,SHS,21,CL,67.1,R(1) C(4),51,92
+467008,Pedro,Strop,SSS,25,CL,66,R(1) C(4),82,97
+467100,Ivan,Nova,FYS,5,SP,177.1,S(6),24,46
+468504,Jhoulys,Chacin,SST,26,SP,212.3,S(6*),48,93
+471911,Carlos,Carrasco,HWC,3,SP,211.2,S(6) R(3),63,70
+472610,Luis,Garcia,NYK,8,RP,50.6,R(1) C(0),44,43
+473879,Sam,Dyson,SYS,4,RP,77,R(1) C(2),39,78
+474463,Brett,Anderson,ROK,99,SP,88,S(5),48,21
+475054,Chaz,Roe,ROK,99,RP,55,R(1) C(0),53,90
+475115,Tyson,Ross,SST,26,SP,165,S(6) R(3),28,83
+476451,Jeremy,Hellickson,SKE,22,SP,100.1,S(5),70,33
+476454,Dellin,Betances,RB2,17,RP,73.7,R(1) C(2),81,94
+476589,Adam,Warren,MBB,10,RP,57.2,R(1),46,68
+476594,Robert,Stock,ROK,99,RP,44,R(2),50,85
+477132,Clayton,Kershaw,GTG,7,SP,177.1,S(6),48,80
+477569,Fernando,Salas,ROK,99,RP,44,R(1),9,66
+488748,Ryan,Buchter,SHS,21,RP,42.9,R(1),88,27
+488768,Andrew,Cashner,FYS,5,SP,168.3,S(6),23,19
+488786,Louis,Coleman,ROK,99,RP,56.1,R(1),75,54
+488846,Brian,Duensing,ROK,99,RP,41.8,R(1) C(0),34,5
+488984,Tommy,Hunter,GTG,7,RP,70.4,R(1) C(2),72,65
+489119,Wade,Miley,BMH,1,SP,89.1,S(5),68,68
+489265,Sergio,Romo,SYS,4,SP,73.7,S(1) R(1) C(4),51,44
+489334,Craig,Stammen,NYK,8,RP,86.9,R(2) C(0),61,92
+489446,Kirby,Yates,MCD,11,CL,69.3,R(1) C(4),83,97
+491646,Jeanmar,Gomez,ROK,99,RP,27.5,R(1),8,45
+493200,Seung Hwan,Oh,MCD,11,RP,74.8,R(1) C(2),20,96
+493247,Peter,Moylan,ROK,99,RP,30.8,R(1),33,7
+493603,Adam,Ottavino,MBB,10,CL,85.8,R(1) C(3),92,98
+500779,Jose,Quintana,HWC,3,SP,191.4,S(5),44,43
+501593,Luis,Avilan,ROK,99,RP,49.5,R(1) C(1),70,49
+501625,Jose,Alvarez,LMH,19,RP,69.3,R(1) C(0),78,67
+501789,Will,Harris,CHW,20,RP,62.7,R(1),55,95
+501817,Tony,Barnette,ROK,99,RP,28.6,R(2),96,83
+501822,Chris,Hatcher,NYK,8,RP,39.6,R(1),1,63
+501925,Joe,Smith,SYS,4,RP,50.6,R(1),77,64
+501957,Chris,Tillman,ROK,99,SP,29.7,S(4),0,2
+501985,Mike,Minor,MCD,11,SP,172.7,S(6),15,62
+502004,George,Kontos,ROK,99,RP,29.7,R(1) C(0),30,26
+502026,Jeremy,Jeffress,HWC,3,CL,84.7,R(1) C(4),95,83
+502032,Bud,Norris,LMH,19,CL,63.8,R(1) C(4),93,10
+502042,Chris,Archer,SHS,21,SP,162.8,S(6),24,50
+502043,Kyle,Gibson,SYS,4,SP,216.7,S(6*),61,72
+502083,Zach,McAllister,BMW,2,RP,49.5,R(1),2,21
+502085,David,Robertson,QCK,16,RP,77,R(1) C(2),83,91
+502154,Zach,Britton,BMH,1,CL,45.1,R(1) C(3),67,89
+502171,Alex,Cobb,MFM,12,SP,167.2,S(6),45,17
+502188,Jeff,Samardzija,SSS,25,SP,49.5,S(5),5,55
+502190,Mike,Leake,QCK,16,SP,204.6,S(6),41,25
+502202,Brad,Boxberger,NWP,15,CL,58.3,R(1) C(5),32,63
+502212,Austin,Bibens-Dirkx,ROK,99,SP,49.5,S(5) R(3),6,21
+502239,Trevor,Cahill,QCK,16,SP,121,S(5),66,81
+502327,Hector,Santiago,ROK,99,SP,112.2,S(5) R(3) C(1),32,34
+502522,Justin,Miller,ROK,99,RP,57.2,R(2) C(1),28,70
+502593,Jake,Petricka,ROK,99,RP,50.6,R(2),16,12
+502624,Chase,Anderson,MFM,12,SP,173.8,S(5),69,21
+502706,Derek,Holland,SKE,22,SP,188.1,S(5) R(3),94,24
+502748,Brad,Peacock,MNJ,9,RP,71.5,R(1) C(2),5,85
+503449,Wily,Peralta,CHW,20,CL,37.4,R(1) C(4),69,31
+504379,Juan,Nicasio,MMM,6,RP,46.2,R(1) C(0),29,8
+506433,Yu,Darvish,NPP,14,SP,44,S(5),19,58
+516969,Kelvin,Herrera,ULO,24,CL,48.4,R(1) C(5),54,52
+517008,Alex,Colome,MCD,11,CL,74.8,R(1) C(3),94,48
+518397,Scott,Alexander,RRF,23,RP,72.6,R(1) C(2),93,29
+518452,Chad,Bettis,FYS,5,SP,132,S(6) R(3),56,14
+518489,Ryan,Brasier,ROK,99,RP,37.4,R(1),73,100
+518516,Madison,Bumgarner,SYS,4,SP,143,S(6),72,50
+518553,Steve,Cishek,MMM,6,RP,77,R(1) C(2),77,93
+518566,Taylor,Cole,ROK,99,SP,39.6,S(4) R(3),92,97
+518617,Jake,Diekman,ROK,99,RP,58.3,R(1) C(1),27,78
+518633,Danny,Duffy,GTG,7,SP,170.5,S(6),53,29
+518693,Sam,Freeman,SST,26,RP,55,R(1),50,72
+518715,Cory,Gearrin,FYS,5,RP,62.7,R(1) C(0),33,62
+518774,Matt,Harvey,NYK,8,SP,170.5,S(5) R(3),33,30
+518813,Greg,Holland,FYS,5,RP,50.6,R(1) C(2),73,46
+518858,Nate,Jones,ROK,99,CL,33,R(1) C(3),43,73
+518875,Shawn,Kelley,SKE,22,RP,53.9,R(1),71,87
+518886,Craig,Kimbrel,MFM,12,CL,68.2,R(1) C(6),77,96
+519008,T.J.,McFarland,SHS,21,RP,79.2,R(2) C(0),95,46
+519043,Matt,Moore,ROK,99,SP,112.2,S(4) R(3),12,10
+519096,Dan,Otero,MNJ,9,RP,64.9,R(1) C(0),3,53
+519141,Drew,Pomeranz,GTG,7,SP,81.4,S(5) R(3),41,6
+519144,Rick,Porcello,SHS,21,SP,210.1,S(6*),45,69
+519151,Ryan,Pressly,NWP,15,RP,78.1,R(1) C(1),95,70
+519166,Neil,Ramirez,ROK,99,RP,46.2,R(1),41,36
+519242,Chris,Sale,FYS,5,SP,173.8,S(6),96,93
+519293,Will,Smith,ROK,99,CL,58.3,R(1) C(3),95,90
+519301,Sammy,Solis,ROK,99,RP,42.9,R(1),2,49
+519326,Hunter,Strickland,ROK,99,CL,49.5,R(1) C(4),68,10
+519443,Brandon,Workman,ROK,99,RP,45.1,R(1),51,52
+519455,Jordan,Zimmermann,MNJ,9,SP,144.1,S(5),28,19
+520980,Pedro,Baez,RB2,17,RP,61.6,R(1),81,67
+521230,Liam,Hendriks,BMW,2,SP,26.4,S(1) R(1),43,30
+521655,Wilmer,Font,ROK,99,SP,48.4,S(4) R(3),12,15
+523260,Joe,Kelly,RBJ,18,RP,72.6,R(1) C(1),84,61
+525768,Tim,Collins,ROK,99,RP,25.3,R(1),23,14
+527048,Martin,Perez,LMH,19,SP,93.5,S(5) R(3),30,5
+527054,Julio,Teheran,RBJ,18,SP,193.6,S(6),49,72
+527055,Arodys,Vizcaino,SYS,4,CL,41.8,R(1) C(5),51,79
+532077,Roberto,Osuna,BMH,1,CL,41.8,R(1) C(6),61,97
+533167,Matt,Shoemaker,ROK,99,SP,34.1,S(5),80,28
+541640,Erasmo,Ramirez,ROK,99,SP,50.6,S(5),3,8
+541652,Bruce,Rondon,ROK,99,RP,33,R(1) C(0),8,30
+542881,Tyler,Anderson,HWC,3,SP,193.6,S(6),14,46
+542882,Matt,Andriese,MNJ,9,SP,86.9,S(4) R(3),44,6
+542947,Richard,Bleier,RRF,23,RP,36.3,R(1),68,41
+542960,Brad,Brach,SST,26,CL,69.3,R(1) C(3),21,60
+543022,Tyler,Chatwood,ULO,24,SP,114.4,S(5) R(3),13,81
+543037,Gerrit,Cole,OSS,13,SP,220,S(6*),95,54
+543045,Adam,Conley,RBJ,18,RP,56.1,R(1) C(2),88,55
+543101,Anthony,DeSclafani,ROK,99,SP,126.5,S(5),11,57
+543118,Oliver,Drake,ROK,99,RP,52.8,R(1),21,49
+543135,Nathan,Eovaldi,SSS,25,SP,122.1,S(5),45,67
+543169,Brian,Flynn,ROK,99,RP,83.6,R(2) C(0),39,32
+543208,Sam,Gaviglio,BMH,1,SP,136.4,S(5) R(3),32,30
+543219,Sean,Gilmartin,ROK,99,RP,29.7,R(3),97,12
+543243,Sonny,Gray,RRF,23,SP,143,S(5) R(3),49,23
+543272,Brad,Hand,NPP,14,CL,79.2,R(1) C(5),90,62
+543278,Blaine,Hardy,SKE,22,SP,94.6,S(5) R(3) C(0),53,58
+543294,Kyle,Hendricks,GTG,7,SP,218.9,S(6*),64,46
+543339,Daniel,Hudson,MNJ,9,RP,50.6,R(2),93,48
+543359,Dan,Jennings,QCK,16,RP,70.4,R(2) C(0),72,6
+543475,Jordan,Lyles,NWP,15,SP,96.8,S(6) R(3),90,10
+543483,Matt,Magill,ROK,99,RP,62.7,R(2),36,22
+543506,Brandon,Maurer,ROK,99,RP,34.1,R(1) C(0),1,5
+543507,Trevor,May,ROK,99,RP,27.5,R(1) C(2),83,62
+543521,Collin,McHugh,MMM,6,RP,79.2,R(2),86,96
+543548,Tommy,Milone,ROK,99,SP,28.6,S(5) R(3),70,0
+543557,Mike,Montgomery,MFM,12,SP,136.4,S(5) R(3),57,41
+543606,Jake,Odorizzi,MFM,12,SP,180.4,S(5),59,54
+543699,Tanner,Roark,BMH,1,SP,198,S(6),30,37
+543734,Chris,Rusin,LMH,19,RP,60.5,R(2),64,11
+543766,Bryan,Shaw,ROK,99,RP,60.5,R(1),40,1
+543883,Nick,Vincent,RRF,23,RP,61.6,R(1),74,66
+543935,Alex,Wilson,GTG,7,RP,68.2,R(1),25,93
+544727,Jeurys,Familia,SHS,21,CL,79.2,R(1) C(4),56,94
+544931,Stephen,Strasburg,HWC,3,SP,143,S(6),39,50
+545333,Trevor,Bauer,QCK,16,SP,192.5,S(6) R(3) C(0),92,82
+547179,Michael,Lorenzen,NPP,14,SP,89.1,S(4) R(3) C(0),40,70
+547749,Junichi,Tazawa,ROK,99,RP,30.8,R(1),41,0
+547888,Masahiro,Tanaka,SYS,4,SP,171.6,S(5),66,36
+547943,Hyun-Jin,Ryu,MFM,12,SP,90.2,S(6),47,84
+547973,Aroldis,Chapman,ULO,24,CL,56.1,R(1) C(6),95,96
+548389,Ross,Stripling,CHW,20,SP,134.2,S(5) R(3),66,19
+552640,Andrew,Kittredge,ROK,99,SP,41.8,S(4) R(3),36,0
+553878,Felipe,Rivero,FYS,5,CL,77,R(1) C(6),97,75
+554430,Zack,Wheeler,SYS,4,SP,200.2,S(6),70,90
+570240,Felix,Pena,ROK,99,SP,102.3,S(5) R(3),31,75
+570632,Jose,Urena,OSS,13,SP,191.4,S(6),44,78
+570663,Hansel,Robles,ROK,99,RP,61.6,R(1) C(1),24,47
+570666,Luis,Cessa,LMH,19,SP,49.5,S(4) R(3) C(1),42,26
+571476,Chris,Beck,ROK,99,RP,37.4,R(3) C(0),24,7
+571510,Matt,Boyd,MNJ,9,SP,187,S(6),61,57
+571578,Patrick,Corbin,CHW,20,SP,220,S(6*),46,84
+571656,Buck,Farmer,FYS,5,RP,75.9,R(1),82,18
+571666,Mike,Fiers,NYK,8,SP,189.2,S(6),56,24
+571670,Dylan,Floro,ROK,99,RP,70.4,R(2),40,87
+571704,Ken,Giles,MBB,10,CL,55,R(1) C(6),68,26
+571710,Mychal,Givens,MBB,10,RP,84.7,R(2) C(2),67,93
+571760,Andrew,Heaney,ROK,99,SP,198,S(6),72,33
+571800,Drew,Hutchison,ROK,99,SP,47.3,S(4) R(3),29,4
+571863,Matt,Koch,ROK,99,SP,95.7,S(5) R(3),47,4
+571901,Aaron,Loup,ROK,99,RP,44,R(1),46,6
+571927,Steven,Matz,SSS,25,SP,169.4,S(5),69,45
+571945,Miles,Mikolas,ROK,99,SP,221.1,S(6*),50,96
+571951,Bryan,Mitchell,ROK,99,SP,80.3,S(5) R(4),31,4
+572020,James,Paxton,HWC,3,SP,176,S(6),70,66
+572021,James,Pazos,ULO,24,RP,55,R(1),22,79
+572070,Garrett,Richards,ULO,24,SP,83.6,S(5),70,46
+572140,Tyler,Skaggs,BMH,1,SP,137.5,S(5),51,37
+572143,Burch,Smith,ROK,99,SP,85.8,S(4) R(3),4,23
+572193,Ryan,Tepera,NWP,15,RP,71.5,R(1) C(2),33,73
+572362,Robbie,Erlin,ROK,99,SP,119.9,S(5) R(4),40,52
+572403,Drew,VerHagen,ROK,99,RP,61.6,R(2),48,89
+572750,Eddie,Butler,ROK,99,RP,55,R(3) C(1),33,9
+572888,Shane,Greene,NYK,8,CL,69.3,R(1) C(5),51,12
+572955,Pierce,Johnson,ROK,99,RP,48.4,R(2),67,21
+572971,Dallas,Keuchel,QCK,16,SP,225.5,S(6*),32,48
+573064,Vidal,Nuno,ROK,99,RP,36.3,R(3),27,90
+573124,Taylor,Rogers,SYS,4,RP,74.8,R(1) C(1),94,80
+573185,Dan,Straily,SYS,4,SP,134.2,S(5),30,45
+573186,Marcus,Stroman,ULO,24,SP,112.2,S(5),51,40
+573668,Juan,Minaya,BMH,1,RP,51.7,R(2) C(0),85,71
+584171,Hector,"Velazquez, H",RRF,23,SP,93.5,S(4) R(3),25,36
+591693,Edubray,Ramos,MMM,6,RP,47.3,R(1) C(0),96,93
+592094,Jason,"Adam, J",ROK,99,RP,35.2,R(1),22,6
+592102,Cody,Allen,BMW,2,CL,73.7,R(1) C(4),42,66
+592130,Danny,Barnes,NPP,14,RP,45.1,R(1),18,24
+592135,Cam,Bedrosian,ROK,99,RP,70.4,R(1) C(0),35,42
+592145,Jesse,Biddle,ROK,99,RP,70.4,R(2) C(0),35,83
+592169,Austin,Brice,ROK,99,RP,40.7,R(2),2,40
+592222,Alex,Claudio,CHW,20,RP,74.8,R(1) C(0),74,5
+592229,Dylan,Covey,ROK,99,SP,134.2,S(5) R(3),41,64
+592314,Mike,Foltynewicz,SSS,25,SP,201.3,S(6),79,82
+592332,Kevin,Gausman,CHW,20,SP,202.4,S(6),54,30
+592340,Erik,Goeddel,ROK,99,RP,40.7,R(2),98,59
+592351,Jon,Gray,SKE,22,SP,189.2,S(6),24,44
+592390,Heath,Hembree,MNJ,9,RP,66,R(1),84,19
+592426,Luke,Jackson,NYK,8,RP,45.1,R(2) C(0),64,17
+592468,Nick,Kingham,ROK,99,SP,83.6,S(5) R(3),7,40
+592473,Adam,Kolarek,ROK,99,RP,37.4,R(2) C(1),64,27
+592499,Artie,Lewicki,ROK,99,SP,42.9,S(4) R(4),9,34
+592547,Deck,McGuire,ROK,99,SP,41.8,S(4) R(3),53,1
+592644,Adam,Plutko,ROK,99,SP,84.7,S(6) R(3) C(0),3,29
+592662,Robbie,Ray,MNJ,9,SP,136.4,S(5),89,40
+592665,Addison,Reed,SSS,25,RP,61.6,R(1),5,26
+592717,Aaron,Sanchez,CHW,20,SP,115.5,S(5),25,80
+592741,Chasen,Shreve,ROK,99,RP,58.3,R(1) C(0),10,25
+592761,Caleb,"Smith, Ca",ROK,99,SP,84.7,S(5),74,52
+592773,Ryne,Stanek,ROK,99,SP,72.6,S(1) R(1),95,70
+592789,Noah,Syndergaard,RBJ,18,SP,169.4,S(6),67,76
+592791,Jameson,Taillon,MFM,12,SP,210.1,S(6),58,74
+592811,Andrew,Triggs,MBB,10,SP,45.1,S(5),53,43
+592815,Sam,Tuivailala,NPP,14,RP,40.7,R(2),10,77
+592826,Vince,Velasquez,NWP,15,SP,161.7,S(5),23,86
+592865,Taylor,"Williams, T",ROK,99,RP,58.3,R(1),1,81
+592866,Trevor,Williams,GTG,7,SP,188.1,S(6),84,63
+593140,Michael,Feliz,ROK,99,RP,52.8,R(1),63,20
+593144,Richard,"Rodriguez, Ri",ROK,99,RP,75.9,R(2),96,62
+593334,Domingo,German,ROK,99,SP,94.6,S(4) R(3),24,54
+593372,Carlos,Martinez,FYS,5,SP,130.9,S(5) R(3) C(4),71,84
+593423,Frankie,Montas,ROK,99,SP,71.5,S(6) R(3),11,54
+593576,Hector,Neris,SHS,21,CL,52.8,R(1) C(4),24,59
+593833,Wander,"Suero, W",ROK,99,RP,52.8,R(2),48,44
+593958,Eduardo,Rodriguez,RRF,23,SP,143,S(6) R(3),49,66
+593974,Wandy,Peralta,CHW,20,RP,49.5,R(1),31,29
+594027,Tayron,Guerrero,ROK,99,RP,63.8,R(1),6,61
+594577,Mike,Mayers,ROK,99,RP,57.2,R(2) C(0),52,3
+594798,Jacob,deGrom,NYK,8,SP,238.7,S(7*),88,97
+594835,Marco,Gonzales,OSS,13,SP,183.7,S(6),42,47
+594840,Matt,Grace,RBJ,18,RP,66,R(2),52,63
+594902,Ben,Lively,ROK,99,SP,33,S(4) R(3),5,41
+594965,Daniel,Poncedeleon,ROK,99,SP,36.3,S(4) R(3) C(0),96,62
+595014,Blake,Treinen,QCK,16,CL,88,R(2) C(6),95,99
+595465,Daniel,Winkler,ROK,99,RP,66,R(1) C(1),18,90
+595918,A.J.,Cole,MNJ,9,SP,52.8,S(4) R(3),0,37
+596001,Jake,Junis,LMH,19,SP,194.7,S(6),32,26
+596043,Daniel,Mengden,QCK,16,SP,127.6,S(5) R(4),62,39
+596057,Daniel,Norris,LMH,19,SP,48.4,S(5) R(3),3,39
+596071,Dillon,Peters,ROK,99,SP,30.8,S(5) R(3),23,4
+596133,Luke,Weaver,NWP,15,SP,149.6,S(5) R(3),27,42
+596295,Austin,Gomber,ROK,99,SP,82.5,S(5) R(3),34,31
+596720,Dovydas,Neverauskas,ROK,99,RP,29.7,R(2),0,25
+598264,Matt,Barnes,SSS,25,RP,68.2,R(1) C(0),69,86
+598271,Brian,Johnson,BMH,1,SP,108.9,S(5) R(3),55,24
+598287,Noe,Ramirez,ROK,99,RP,91.3,R(2) C(0),41,45
+599683,Warwick,Saupold,ROK,99,RP,37.4,R(2) C(0),2,56
+600917,Jose,Leclerc,SKE,22,CL,63.8,R(1) C(4),94,99
+600968,Randy,Rosario,ROK,99,RP,51.7,R(2) C(0),52,39
+601713,Nick,Pivetta,QCK,16,SP,180.4,S(5),50,61
+605121,Justin,Anderson,ROK,99,RP,60.5,R(1) C(2),71,79
+605135,Chris,Bassitt,ROK,99,SP,52.8,S(5) R(3),86,70
+605151,Archie,Bradley,LMH,19,RP,79.2,R(1) C(2),94,19
+605154,John,Brebbia,MCD,11,RP,56.1,R(2) C(1),42,90
+605164,Dylan,Bundy,MCD,11,SP,189.2,S(6),8,47
+605177,Andrew,Chafin,GTG,7,RP,53.9,R(1),56,72
+605182,Mike,Clevinger,SST,26,SP,220,S(6*),61,85
+605195,Kyle,Crick,SSS,25,RP,66,R(1) C(1),81,98
+605200,Zach,Davies,NPP,14,SP,72.6,S(5),40,22
+605218,Carl,Edwards,HWC,3,RP,57.2,R(1),63,94
+605240,Jace,Fry,ROK,99,CL,56.1,R(1) C(3),96,76
+605242,Michael,Fulmer,CHW,20,SP,145.2,S(6),38,53
+605255,Brett,Graves,ROK,99,RP,36.3,R(2) C(0),11,21
+605276,David,Hess,ROK,99,SP,113.3,S(5) R(3),28,37
+605280,Clay,"Holmes, C",ROK,99,SP,28.6,S(4) R(3),40,14
+605309,Keone,Kela,MFM,12,CL,57.2,R(1) C(6),70,94
+605347,Jorge,Lopez,ROK,99,SP,59.4,S(4) R(3),45,22
+605388,Adam,Morgan,ROK,99,RP,53.9,R(1) C(0),69,62
+605397,Joe,Musgrove,OSS,13,SP,126.5,S(6),42,77
+605400,Aaron,Nola,NPP,14,SP,233.2,S(6*),97,95
+605441,Yacksel,"Rios, Y",ROK,99,RP,39.6,R(2),4,47
+605446,Dereck,"Rodriguez, D",ROK,99,SP,129.8,S(6) R(3),59,71
+605483,Blake,Snell,RBJ,18,SP,199.1,S(6),98,95
+605488,Jeffrey,Springs,ROK,99,SP,35.2,S(4) R(3),32,62
+605498,Andrew,Suarez,ROK,99,SP,176,S(6),84,9
+605538,Matt,Wisler,ROK,99,SP,44,S(5) R(3),22,15
+605540,Brandon,Woodruff,BMW,2,SP,46.2,S(4) R(3) C(0),77,56
+605541,Mike,Wright,ROK,99,SP,92.4,S(4) R(3),45,16
+606131,Luis,Perdomo,ROK,99,SP,49.5,S(4) R(3),2,15
+606162,Yefrey,"Ramirez, Y",ROK,99,SP,71.5,S(5) R(3),19,64
+606273,Roenis,Elias,ROK,99,SP,56.1,S(4) R(3),39,74
+606424,Jarlin,Garcia,NYK,8,SP,72.6,S(5) R(3),18,23
+606478,Pedro,"Araujo, P",ROK,99,RP,30.8,R(2),42,3
+606625,Reyes,Moronta,ROK,99,RP,71.5,R(2) C(0),92,95
+606930,Jacob,Barnes,ROK,99,RP,53.9,R(1) C(1),31,48
+606965,Chris,Devenski,MCD,11,RP,51.7,R(1) C(1),41,50
+607074,Carlos,Rodon,OSS,13,SP,133.1,S(6),19,82
+607188,Jacob,Faria,RRF,23,SP,71.5,S(4) R(3),41,34
+607192,Tyler,Glasnow,NWP,15,SP,123.2,S(5) R(3),75,57
+607200,Erick,Fedde,BMW,2,SP,55,S(5),11,16
+607215,Eric,Skoglund,ROK,99,SP,77,S(5),46,23
+607219,Sal,Romano,RB2,17,SP,160.6,S(5) R(3),14,59
+607229,Robert,Gsellman,BMW,2,CL,88,R(2) C(3),53,64
+607231,John,Gant,ROK,99,SP,125.4,S(6) R(4),80,76
+607237,Amir,Garrett,MFM,12,RP,69.3,R(2),50,50
+607352,Joe,Biagini,ROK,99,SP,79.2,S(4) R(3),6,15
+607374,Nick,Tropeano,ROK,99,SP,83.6,S(5),24,30
+607457,Kyle,Barraclough,QCK,16,CL,61.6,R(1) C(3),91,41
+607473,Chasen,Bradford,ROK,99,RP,59.4,R(2),37,39
+607481,Aaron,Bummer,ROK,99,RP,35.2,R(1),67,22
+607536,Kyle,Freeland,ULO,24,SP,222.2,S(6*),92,66
+607625,Seth,Lugo,NWP,15,SP,111.1,S(4) R(3) C(2),93,71
+607968,Drew,Rucinski,ROK,99,RP,38.5,R(2),59,67
+608331,Max,Fried,HWC,3,SP,37.4,S(4) R(3),20,66
+608334,Carson,Fulmer,ROK,99,SP,35.2,S(4) R(3),15,8
+608337,Lucas,Giolito,RB2,17,SP,190.3,S(6),32,52
+608349,Corey,Knebel,HWC,3,CL,60.5,R(1) C(5),82,62
+608379,Michael,Wacha,RRF,23,SP,92.4,S(5),89,48
+608566,German,Marquez,ULO,24,SP,215.6,S(6*),33,83
+608638,J.T.,Chargois,ROK,99,RP,35.2,R(1),6,82
+608648,Tyler,Duffey,ROK,99,RP,27.5,R(2),12,26
+608652,Luke,Farrell,ROK,99,SP,34.1,S(4) R(3),17,31
+608665,Kendall,Graveman,GTG,7,SP,37.4,S(5),9,3
+608716,Drew,Steckenrider,MMM,6,RP,71.5,R(1) C(2),34,90
+608717,Chris,Stratton,MMM,6,SP,159.5,S(5) R(3),14,35
+608718,Brent,Suter,NYK,8,SP,111.1,S(5) R(4),54,24
+611093,Silvino,Bracho,ROK,99,RP,34.1,R(2),48,72
+612434,Miguel,Castro,NWP,15,RP,94.6,R(2),54,82
+612672,Wei-Yin,Chen,NPP,14,SP,146.3,S(5),77,22
+620454,Jose,"Castillo, J",ROK,99,RP,41.8,R(2) C(0),98,83
+621056,Hunter,Wood,ROK,99,SP,45.1,S(1) R(1),48,45
+621107,Zach,Eflin,OSS,13,SP,140.8,S(5),35,73
+621111,Walker,Buehler,FYS,5,SP,150.7,S(6),88,91
+621112,Paul,Blackburn,RBJ,18,SP,30.8,S(5),21,36
+621121,Lance,McCullers,MCD,11,SP,140.8,S(6) R(3),84,51
+621237,Jose,"Alvarado, J",HWC,3,CL,70.4,R(1) C(3),84,95
+621242,Edwin,Diaz,GTG,7,CL,80.3,R(1) C(6),98,96
+621244,Jose,Berrios,OSS,13,SP,211.2,S(6),76,73
+621261,Corey,Oswalt,ROK,99,SP,71.5,S(5) R(3),65,5
+621289,Jaime,Schultz,ROK,99,RP,33,R(2),97,5
+621295,Nick,Wittgren,CHW,20,RP,37.4,R(2),76,71
+621345,A.J.,Minter,RB2,17,CL,67.1,R(1) C(4),77,57
+621366,Ryan,Borucki,ROK,99,SP,107.8,S(6),72,61
+621381,Matt,Strahm,SKE,22,SP,67.1,S(4) R(3),59,97
+621385,Daniel,Stumpf,ROK,99,RP,41.8,R(1),44,5
+621389,Ty,Blach,SYS,4,SP,130.9,S(4) R(3),36,44
+621397,Tyler,Olson,MCD,11,RP,29.7,R(1),71,9
+622072,Alex,Wood,SSS,25,SP,167.2,S(6) R(3),57,64
+622098,Drew,"Smith, D",ROK,99,RP,30.8,R(2),57,6
+622382,Gabriel,Moya,ROK,99,SP,39.6,S(1) R(1),48,40
+622446,Jefry,"Rodriguez, J",ROK,99,SP,57.2,S(5) R(4),16,58
+622491,Luis,"Castillo, L",RRF,23,SP,187,S(5),16,82
+622505,Victor,Alcantara,ROK,99,RP,33,R(1),56,63
+622554,Seranthony,"Dominguez, S",ROK,99,CL,63.8,R(2) C(4),79,99
+622608,Antonio,Senzatela,LMH,19,SP,99,S(5) R(3),53,20
+622663,Luis,Severino,SHS,21,SP,210.1,S(6),57,72
+622694,Elieser,"Hernandez, E",ROK,99,SP,72.6,S(4) R(3),14,31
+622795,Yohander,Mendez,ROK,99,SP,30.8,S(4) R(3),12,46
+622864,Fernando,"Romero, F",MCD,11,SP,61.6,S(5),31,47
+623149,Paul,Sewald,ROK,99,RP,61.6,R(2) C(1),15,26
+623184,Scott,Oberg,CHW,20,RP,64.9,R(2),70,93
+623352,Josh,Hader,MBB,10,CL,89.1,R(2) C(4),97,73
+623381,Thomas,Pannone,ROK,99,SP,47.3,S(6) R(3),35,58
+623402,Tim,"Peterson, T",ROK,99,RP,30.8,R(2),5,50
+623430,Ryan,Dull,ROK,99,RP,27.5,R(1),67,52
+623451,Jackson,Stephens,NPP,14,RP,41.8,R(3),30,4
+624427,Stephen,Gonsalves,MCD,11,SP,27.5,S(4) R(3),2,42
+625643,Reynaldo,Lopez,MBB,10,SP,207.9,S(6),66,52
+628317,Kenta,Maeda,BMW,2,SP,137.5,S(5) R(3) C(1),28,79
+628318,Kazuhisa,Makita,ROK,99,RP,38.5,R(2),9,71
+628333,Odrisamer,Despaigne,ROK,99,SP,42.9,S(4) R(3),12,14
+628452,Raisel,Iglesias,ULO,24,CL,79.2,R(1) C(6),77,79
+630023,Yonny,"Chirinos, Y",ROK,99,SP,99,S(5) R(5),63,58
+640455,Sean,Manaea,HWC,3,SP,177.1,S(6),72,62
+640464,Kohl,Stewart,ROK,99,SP,40.7,S(4) R(4),68,57
+641154,Pablo,"Lopez, P",ROK,99,SP,64.9,S(6),65,16
+641341,Tyler,Bashlor,ROK,99,RP,35.2,R(2),38,70
+641427,Alan,Busenitz,NPP,14,RP,27.5,R(2),6,0
+641438,Shane,Carle,ROK,99,RP,69.3,R(2) C(0),75,68
+641571,Heath,Fillmyer,ROK,99,SP,90.2,S(5) R(3),77,13
+641712,Dakota,Hudson,ROK,99,RP,29.7,R(2),62,96
+641729,Joe,Jimenez,ROK,99,RP,69.3,R(1) C(2),73,79
+641745,Brad,Keller,ROK,99,SP,154,S(6) R(3),56,80
+641771,Chad,Kuhl,MFM,12,SP,93.5,S(6),23,40
+641778,Eric,Lauer,ROK,99,SP,123.2,S(5),11,30
+641816,Tyler,Mahle,NWP,15,SP,123.2,S(5),8,48
+641835,Tim,Mayza,ROK,99,RP,39.6,R(1),81,52
+641838,Kevin,McCarthy,ROK,99,RP,79.2,R(1),24,70
+641941,Emilio,Pagan,MFM,12,RP,68.2,R(2),1,76
+642003,Cody,Reed,ROK,99,SP,47.3,S(4) R(3),76,36
+642008,Jacob,Rhame,ROK,99,RP,35.2,R(2) C(0),0,36
+642098,Glenn,Sparkman,ROK,99,SP,41.8,S(4) R(3),37,12
+642152,Lou,Trivino,ROK,99,RP,81.4,R(2) C(2),77,90
+642231,Jimmy,Yacabonis,ROK,99,SP,44,S(4) R(3),24,46
+642232,Ryan,Yarbrough,ROK,99,SP,161.7,S(5) R(5),67,44
+642528,Jonathan,Loaisiga,ROK,99,SP,27.5,S(4) R(3),29,31
+642545,Jaime,Barria,ROK,99,SP,141.9,S(5),78,20
+642547,Freddy,Peralta,ROK,99,SP,85.8,S(6) R(3),21,98
+642558,Ariel,Jurado,ROK,99,SP,60.5,S(5) R(4),7,63
+643230,Steven,Brault,RB2,17,SP,101.2,S(5) R(3),78,38
+643256,Adam,Cimber,ROK,99,RP,74.8,R(1),4,71
+643316,Paul,Fry,ROK,99,RP,41.8,R(2) C(1),72,84
+643327,Zack,Godley,MBB,10,SP,195.8,S(6),55,39
+643338,Chad,Green,BMW,2,RP,83.6,R(2),65,74
+643466,Harrison,Musgrave,ROK,99,RP,49.5,R(2),41,24
+643493,Austin,Pruitt,BMH,1,CL,77,R(4) C(3),48,46
+644364,Victor,Arano,ROK,99,RP,64.9,R(2) C(2),55,96
+645261,Sandy,Alcantara,SHS,21,SP,37.4,S(5),85,28
+647336,Mike,"Soroka, M",SKE,22,SP,28.6,S(5),55,6
+650828,Edgar,Santana,ROK,99,RP,72.6,R(1) C(0),50,76
+650895,Diego,"Castillo, D",ROK,99,SP,62.7,S(1) R(1),86,96
+656222,Jalen,Beeks,ROK,99,RP,56.1,R(4),79,15
+656354,Austin,Davis,ROK,99,RP,38.5,R(2),29,88
+656427,Jack,Flaherty,BMW,2,SP,166.1,S(5),88,64
+656547,Jonathan,Holder,OSS,13,RP,72.6,R(2),84,82
+656756,Jordan,Montgomery,MMM,6,SP,29.7,S(5),99,40
+656794,Sean,Newcomb,SKE,22,SP,180.4,S(6),45,58
+656798,Jacob,Nix,ROK,99,SP,46.2,S(4),2,19
+656887,Sean,Reid-Foley,BMH,1,SP,36.3,S(4),54,25
+656945,Tanner,Scott,ROK,99,RP,58.3,R(1) C(0),75,19
+656977,Chad,Sobotka,ROK,99,RP,15.4,R(1),24,87
+657053,Touki,Toussaint,ROK,99,SP,31.9,S(5) R(3),90,58
+657571,Caleb,Ferguson,ROK,99,SP,53.9,S(4) R(3) C(1),48,72
+657610,Trevor,Hildenberger,MFM,12,RP,80.3,R(1) C(2),37,23
+657612,Tim,Hill,ROK,99,RP,50.6,R(1) C(1),79,32
+657624,Joshua,James,ROK,99,SP,25.3,S(5) R(3),67,96
+660271,Shohei,Ohtani,ROK,99,SP,57.2,S(5),89,52
+663855,Jordan,Hicks,ROK,99,RP,85.8,R(1) C(2),73,95
+664028,Brett,"Kennedy, B",ROK,99,SP,29.7,S(5),13,0
+664192,Joey,Lucchesi,ROK,99,SP,143,S(5),68,22
+664208,Phil,Maton,ROK,99,RP,51.7,R(2),58,25
+664285,Framber,"Valdez, F",ROK,99,SP,40.7,S(5) R(4),95,76
+669203,Corbin,Burnes,OSS,13,RP,41.8,R(2) C(0),97,66
+669456,Shane,Bieber,ROK,99,SP,126.5,S(6),9,59
+670950,Trevor,Richards,ROK,99,SP,138.6,S(5),69,11
+673633,Yoshihisa,Hirano,ROK,99,RP,72.6,R(1) C(2),80,74
+456030,Dustin,Pedroia,MBB,10,NC-2B,0,,,
+501381,Michael,Pineda,RB2,17,NC-S,0,,,
+503285,Darren,O'Day,LMH,19,NC-R,0,,,
+506560,Alexi,Amarista,MNJ,9,NC-SS,0,,,
+517414,Randall,Delgado,BMW,2,NC-R,0,,,
+517593,Danny,Salazar,BMH,1,NC-S,0,,,
+518595,Travis,d'Arnaud,BMH,1,NC-C,0,,,
+519076,Jimmy,Nelson,BMW,2,NC-S,0,,,
+546990,Anthony,Alford,ULO,24,NC-CF,0,,,
+548357,Christian,Bergman,LMH,19,NC-S,0,,,
+570267,Domingo,Santana,HWC,3,NC-DH,0,,,
+572096,Trevor,Rosenthal,HWC,3,NC-R,0,,,
+592170,Parker,Bridwell,NPP,14,NC-S,0,,,
+592647,Dalton,Pompey,RBJ,18,NC-CF,0,,,
+593647,Socrates,Brito,RB2,17,NC-CF,0,,,
+595191,Jerad,Eickhoff,NPP,14,NC-S,0,,,
+605452,Joe,Ross,BMH,1,NC-S,0,,,
+606132,Raimel,Tapia,SYS,4,NC-RF,0,,,
+606983,Koda,Glover,MNJ,9,NC-RHP,0,,,
+607455,Anthony,Banda,MMM,6,NC-S,0,,,
+608348,Carson,Kelly,NYK,8,NC-C,0,,,
+615698,Cal,Quantrill,OSS,13,NC-P,0,,,
+621052,Alex,Reyes,SST,26,NC-P,0,,,
+621058,Andrew,Moore,NPP,14,NC-S,0,,,
+622761,Jorge,Mateo,MNJ,9,NC-SS,0,,,
+624503,Nick,Gordon,BMH,1,NC-SS,0,,,
+627894,Luiz,Gohara,OSS,13,NC-S,0,,,
+640449,Clint,Frazier,RBJ,18,NC-LF,0,,,
+640462,A.J.,Puk,SKE,22,NC-P,0,,,
+641470,Zack,Collins,LMH,19,NC-C,0,,,
+641541,Jon,Duplantier,MFM,12,NC-P,0,,,
+641786,Kyle,Lewis,ULO,24,NC-LF,0,,,
+641999,Corey,Ray,ULO,24,NC-cf,0,,,
+644374,Yu-Cheng,Chang,MNJ,9,NC-SS,0,,,
+649966,Luis,Urias,RRF,23,NC-2B,0,,,
+650391,Eloy,Jimenez,SHS,21,NC-RF,0,,,
+656302,Dylan,Cease,RB2,17,NC-P,0,,,
+656308,Michael,Chavis,MBB,10,NC-SS,0,,,
+656412,Alex,Faedo,MFM,12,NC-P,0,,,
+656455,Michael,Gettys,CHW,20,NC-CF,0,,,
+656509,Monte,Harrison,QCK,16,NC-RF,0,,,
+656605,Mitch,Keller,OSS,13,NC-P,0,,,
+656629,Michael,Kopech,SST,26,NC-P,0,,,
+656713,Brendan,McKay,GTG,7,NC-1B,0,,,
+656814,Luis,Ortiz,RBJ,18,NC-P,0,,,
+656883,Jakson,Reetz,CHW,20,NC-C,0,,,
+656954,Justus,Sheffield,BMH,1,NC-P,0,,,
+657140,Kyle,Wright,BMW,2,NC-P,0,,,
+658530,Franklin,Perez,HWC,3,NC-P,0,,,
+659262,Anderson,Espinoza,SKE,22,NC-RHP,0,,,
+659275,Dinelson,Lamet,SSS,25,NC-S,0,,,
+660688,Keibert,"Ruiz, K",RRF,23,NC-C,0,,,
+660821,Jesus,Sanchez,NWP,15,NC-LF,0,,,
+663465,Kolby,Allard,QCK,16,NC-P,0,,,
+663474,Triston,McKenzie,GTG,7,NC-P,0,,,
+663586,Austin,Riley,SHS,21,NC-3B,0,,,
+663624,Ryan,Mountcastle,NWP,15,NC-SS,0,,,
+663898,Brendan,Rodgers,ULO,24,NC-SS,0,,,
+664314,Estevan,Florial,QCK,16,NC-LF,0,,,
+664350,Sixto,Sanchez,SKE,22,NC-P,0,,,
+664856,Chance,Adams,MCD,11,NC-P,0,,,
+665487,Fernando,Tatis,OSS,13,NC-SS,0,,,
+665489,Vladimir,Guerrero Jr.,OSS,13,NC-LF,0,,,
+665750,Leody,Taveras,MCD,11,NC-LF,0,,,
+666120,Ian,Anderson,CHW,20,NC-P,0,,,
+666130,Jason,Groome,LMH,19,NC-P,0,,,
+666159,Matt,Manning,RBJ,18,NC-P,0,,,
+666164,Blake,Rutherford,SST,26,NC-CF,0,,,
+666176,Jo,Adell,SST,26,NC-DH,0,,,
+666182,Bo,Bichette,CHW,20,NC-SS,0,,,
+666211,Taylor,Trammell,GTG,7,NC-LF,0,,,
+666215,Forrest,Whitley,SST,26,NC-P,0,,,
+668881,Hunter,Greene,FYS,5,NC-DH,0,,,
+668904,Royce,Lewis,FYS,5,NC-SS,0,,,
+669022,MacKenzie,Gore,MCD,11,NC-P,0,,,
+669222,Nick,Senzel,OSS,13,NC-3B,0,,,
+669374,Keston,Hiura,ULO,24,NC-2B,0,,,
+669720,Austin,Hays,MFM,12,NC-RF,0,,,
+670541,Yordan,Alvarez,LMH,19,NC-DH,0,,,
+670867,Kevin,Maitan,RBJ,18,NC-SS,0,,,
+673258,Michel,Baez,MBB,10,NC-P,0,,,
+673357,Luis,Robert,RBJ,18,NC-OF,0,,,
